@@ -1,0 +1,53 @@
+sample.ID       patient.ID      sex     age     survival_status cancer_type     detailed_cancer_type
+SP119755	DO219106	Female	55	LIVING	Colorectal Cancer	Mucinous Adenocarcinoma of the Colon and Rectum
+SP16886	DO7801	Male	46	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP16934	DO7822	Male	59	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP16958	DO7831	Male	74	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP17016	DO7858	Male	73	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP17294	DO7990	Female	57	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP17329	DO8004	Female	80	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP17430	DO8047	Male	69	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP17905	DO8264	Male	57	LIVING	Colorectal Cancer	Mucinous Adenocarcinoma of the Colon and Rectum
+SP18121	DO8360	Male	58	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP18787	DO8658	Male	69	LIVING	Colorectal Cancer	Mucinous Adenocarcinoma of the Colon and Rectum
+SP18946	DO8730	Male	65	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP19215	DO8858	Female	64	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP19295	DO8898	Female	81	LIVING	Colorectal Cancer	Mucinous Adenocarcinoma of the Colon and Rectum
+SP19582	DO9034	Female	53	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP19606	DO9042	Male	68	DECEASED	Colorectal Cancer	Colorectal Adenocarcinoma
+SP19670	DO9074	Female	72	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP19750	DO9106	Female	47	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP19983	DO9226	Male	82	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP20993	DO9700	Male	65	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP21057	DO9732	Female	78	DECEASED	Colorectal Cancer	Colorectal Adenocarcinoma
+SP21193	DO9788	Female	73	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP21400	DO9876	Male	75	DECEASED	Colorectal Cancer	Mucinous Adenocarcinoma of the Colon and Rectum
+SP21528	DO9940	Female	78	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP22031	DO10172	Male	31	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP22750	DO10486	Female	81	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP23078	DO10631	Female	63	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP80271	DO36386	Male	63	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP80367	DO36431	Male	62	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP80423	DO36459	Female	85	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP80615	DO36556	Male	57	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP80657	DO36572	Female	67	LIVING	Colorectal Cancer	Mucinous Adenocarcinoma of the Colon and Rectum
+SP80754	DO36619	Female	71	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP80950	DO36710	Male	75	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP81137	DO36801	Female	72	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP81172	DO36822	Female	41	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP81440	DO36945	Male	68	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP81494	DO36969	Female	48	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP81711	DO37074	Male	87	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP81840	DO37138	Female	78	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP82087	DO37259	Female	85	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP82103	DO37267	Female	89	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP96110	DO44086	Female	68	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP96112	DO44087	Male	56	DECEASED	Colorectal Cancer	Colorectal Adenocarcinoma
+SP96114	DO44088	Female	64	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP96116	DO44089	Male	51	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP96118	DO44090	Female	34	DECEASED	Colorectal Cancer	Mucinous Adenocarcinoma of the Colon and Rectum
+SP96120	DO44091	Female	74	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP96122	DO44092	Female	55	DECEASED	Colorectal Cancer	Mucinous Adenocarcinoma of the Colon and Rectum
+SP96124	DO44093	Female	61	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP96126	DO44094	Male	69	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma
+SP96129	DO44095	Male	57	LIVING	Colorectal Cancer	Colorectal Adenocarcinoma

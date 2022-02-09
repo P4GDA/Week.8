@@ -1,0 +1,306 @@
+sample.ID       patient.ID      sex     age     survival_status cancer_type     detailed_cancer_type
+SP102485	DO46744	Male	69	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102489	DO46745	Male	48	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102499	DO46747	Male	74	DECEASED	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102507	DO46749	Male	78	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102511	DO46751	Male	76	DECEASED	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102517	DO46753	Female	59	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102523	DO46755	Male	59	DECEASED	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102529	DO46757	Male	66	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102537	DO46759	Male	61	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102541	DO46761	Female	67	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102547	DO46763	Male	79	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102561	DO46767	Female	65	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102567	DO46769	Female	69	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102573	DO46771	Female	45	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102581	DO46773	Female	44	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102591	DO46777	Male	81	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102597	DO46779	Male	77	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102605	DO46781	Male	56	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102611	DO46783	Male	78	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP102617	DO46785	Male	59	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP106669	DO48520	Female	59	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP106718	DO48539	Male	38	DECEASED	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP106722	DO48541	Male	68	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP106734	DO48545	Male	56	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP106750	DO48553	Male	64	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP106753	DO48554	Male	38	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP106758	DO48557	Male	52	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP106797	DO48573	Male	71	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP106808	DO48578	Female	59	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP106815	DO48581	Male	64	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP107770	DO49074	Male	49	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP107774	DO49076	Male	64	DECEASED	Pancreatic Cancer	Acinar Cell Carcinoma of the Pancreas
+SP107781	DO49078	Male	79	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP107784	DO49079	Male	50	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP107786	DO49080	Male	60	LIVING	Pancreatic Cancer	Adenosquamous Carcinoma of the Pancreas
+SP107805	DO49087	Female	68	DECEASED	Pancreatic Cancer	Mucinous Cystic Neoplasm
+SP107813	DO49090	Female	77	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP107874	DO49113	Female	46	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP107915	DO49127	Female	77	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP107920	DO49129	Male	50	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP107945	DO49135	Male	65	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP107956	DO49138	Male	74	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP108017	DO49166	Female	40	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP108020	DO49168	Male	58	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP108049	DO49178	Male	58	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP108059	DO49181	Male	77	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP108065	DO49183	Female	51	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP108068	DO49184	Male	56	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP108088	DO49193	Male	60	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP108123	DO49204	Male	67	DECEASED	Pancreatic Cancer	Adenosquamous Carcinoma of the Pancreas
+SP110736	DO32860	Male	57	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP110770	DO33168	Female	80	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP110789	DO34680	Male	75	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP110798	DO34336	Female	70	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP110803	DO34504	Male	37	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP110816	DO34720	Male	68	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP110822	DO34640	Female	49	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP110824	DO34728	Female	77	LIVING	Pancreatic Cancer	Adenosquamous Carcinoma of the Pancreas
+SP116949	DO51494	Male	59	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP116950	DO49460	Female	64	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP116962	DO35098	Male	63	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP116965	DO51493	Female	52	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP116985	DO49439	Female	79	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117001	DO49484	Male	67	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117002	DO49430	Male	81	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117037	DO51505	Female	64	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117040	DO49445	Female	60	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117043	DO51171	Female	74	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP117076	DO35330	Male	63	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117085	DO51179	Male	64	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP117086	DO51181	Female	26	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP117158	DO51513	Female	85	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117164	DO49422	Male	74	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117165	DO35424	Male	74	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117201	DO49424	Male	84	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117214	DO49421	Female	74	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117215	DO51473	Female	76	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117216	DO35258	Male	82	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117223	DO51170	Male	41	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP117228	DO51176	Female	64	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP117261	DO49420	Male	64	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117290	DO49463	Female	78	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117291	DO49451	Male	66	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117294	DO51169	Male	35	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP117309	DO49466	Male	79	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117323	DO35082	Male	68	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117331	DO51180	Male	56	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP117340	DO51469	Female	80	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117351	DO51492	Female	57	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117412	DO51511	Female	67	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117440	DO35305	Male	70	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117441	DO49478	Male	81	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117463	DO35126	Female	55	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117476	DO51485	Female	74	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117493	DO51173	Female	39	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP117522	DO49454	Female	74	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117568	DO35236	Female	58	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117595	DO51184	Female	34	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP117643	DO35350	Male	76	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117648	DO51546	Female	73	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117650	DO51509	Male	66	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117653	DO49481	Male	64	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117656	DO51495	Male	66	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117660	DO51468	Male	69	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117661	DO51483	Female	67	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117667	DO51177	Male	36	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP117690	DO49427	Female	69	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117700	DO51175	Female	71	DECEASED	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP117722	DO51540	Female	69	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117745	DO49457	Female	53	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117758	DO51187	Female	69	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP117760	DO51507	Male	73	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117796	DO51178	Male	53	DECEASED	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP117878	DO35144	Male	69	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117908	DO35128	Female	83	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117911	DO49436	Female	69	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117949	DO51514	Male	61	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117951	DO51174	Male	63	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP117972	DO51544	Male	69	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117974	DO51496	Female	70	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117980	DO49442	Male	57	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP117984	DO51172	Male	62	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP118043	DO51182	Male	50	DECEASED	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP118044	DO51185	Male	17	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP118046	DO51518	Female	66	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP118048	DO49418	Male	58	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP118083	DO51489	Female	60	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125685	DO51472	Female	65	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125686	DO51528	Male	62	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125689	DO51520	Male	73	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125691	DO51491	Male	83	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125693	DO51478	Male	69	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125694	DO51490	Female	78	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125695	DO35496	Female	63	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125696	DO51467	Male	67	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125698	DO51530	Female	43	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125699	DO35290	Male	65	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125703	DO221539	Male	49	LIVING	Pancreatic Cancer	Adenocarcinoma
+SP125704	DO35406	Male	54	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125705	DO51542	Female	54	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125706	DO51510	Male	43	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125707	DO51521	Female	78	NA	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125710	DO51484	Female	63	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125711	DO51538	Female	76	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125712	DO51497	Female	70	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125713	DO221541	Male	75	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125714	DO51502	Male	47	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125715	DO51488	Female	55	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125717	DO51470	Female	51	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125719	DO51479	Male	70	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125721	DO35376	Female	42	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125722	DO221543	Male	54	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125723	DO51487	Female	69	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125724	DO35136	Female	61	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125725	DO51524	Male	79	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125726	DO51537	Male	73	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125730	DO51523	Male	48	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125731	DO51501	Male	53	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125733	DO51499	Male	64	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125737	DO51541	Male	81	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125738	DO51503	Female	46	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125741	DO51531	Male	48	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125742	DO35360	Male	65	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125744	DO51480	Female	41	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125745	DO49433	Male	48	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125749	DO51535	Male	84	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125752	DO51500	Female	69	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125753	DO35230	Female	52	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125755	DO51515	Male	73	LIVING	Pancreatic Cancer	Mucinous Cystic Neoplasm
+SP125756	DO51476	Female	45	DECEASED	Pancreatic Cancer	Mucinous Cystic Neoplasm
+SP125757	DO35454	Female	74	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125758	DO51466	Male	69	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125760	DO51481	Female	59	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125761	DO51512	Male	42	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125762	DO51536	Female	82	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125763	DO51527	Female	86	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125764	DO49419	Male	50	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125766	DO51549	Female	76	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125768	DO51529	Male	87	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125769	DO221542	Male	60	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125770	DO51474	Male	63	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125771	DO35116	Female	76	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125772	DO35222	Male	53	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125775	DO51477	Male	56	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125776	DO35198	Female	70	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125777	DO221547	Male	47	LIVING	Pancreatic Cancer	Adenocarcinoma
+SP125778	DO221545	Male	63	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125780	DO51543	Female	76	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125781	DO35228	Male	68	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125783	DO51504	Female	67	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125784	DO221546	Male	61	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125785	DO51522	Female	50	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125786	DO51486	Female	56	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125791	DO51498	Female	40	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125793	DO51525	Male	38	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125794	DO51534	Female	79	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125795	DO51519	Female	70	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125800	DO51508	Female	83	NA	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125802	DO51532	Female	59	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125804	DO221544	Male	42	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125805	DO49448	Male	68	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125807	DO221540	Male	56	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125809	DO51548	Female	55	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP125811	DO51533	Male	67	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP135274	DO52122	Female	43	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135282	DO52123	Male	56	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135288	DO52124	Male	58	DECEASED	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135296	DO52125	Male	79	DECEASED	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135305	DO52126	Male	50	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135316	DO52127	Female	41	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135324	DO52128	Male	42	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135328	DO52129	Female	46	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135334	DO52131	Male	38	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135339	DO52132	Female	71	DECEASED	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135346	DO52134	Male	71	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135354	DO52135	Female	47	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135363	DO52136	Female	70	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135372	DO52137	Female	30	DECEASED	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135389	DO52139	Female	61	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135410	DO52141	Female	46	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135416	DO52142	Female	62	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135422	DO52143	Male	59	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135434	DO52146	Male	75	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135440	DO52147	Male	48	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135444	DO52148	Male	64	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135448	DO52149	Female	66	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135451	DO52150	Male	40	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135455	DO52151	Male	56	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135460	DO52152	Female	44	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135463	DO52153	Male	57	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135468	DO52154	Male	71	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135475	DO52155	Male	60	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135478	DO52156	Male	53	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135480	DO52158	Male	55	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135484	DO52159	Male	50	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135488	DO52161	Male	69	DECEASED	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135492	DO52162	Female	20	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP135496	DO52164	Male	66	LIVING	Pancreatic Cancer	Pancreatic Neuroendocrine Tumor
+SP69565	DO32831	Female	49	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP69573	DO32833	Female	74	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP69587	DO32837	Male	34	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP69705	DO32863	Male	60	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP69762	DO32878	Female	69	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP69812	DO32893	Female	61	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP69898	DO32916	Male	78	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70046	DO32960	Female	65	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70082	DO32972	Male	66	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70106	DO32980	Female	72	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70122	DO32984	Male	61	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70178	DO33000	Male	68	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70202	DO33008	Female	56	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70226	DO33016	Male	54	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70266	DO33028	Male	58	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70288	DO33032	Male	64	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70313	DO33042	Male	76	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70465	DO33077	Female	76	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70677	DO33128	Male	72	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70756	DO33160	Female	78	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70780	DO33152	Male	88	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70860	DO33184	Male	70	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70932	DO33200	Female	90	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP70956	DO33208	Male	59	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP71084	DO33248	Female	70	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP71132	DO33264	Male	80	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP71228	DO33288	Male	71	LIVING	Pancreatic Cancer	Mucinous Cystic Neoplasm
+SP71404	DO33344	Male	70	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP71456	DO33368	Male	81	DECEASED	Pancreatic Cancer	Adenosquamous Carcinoma of the Pancreas
+SP71480	DO33376	Female	62	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP71536	DO33392	Male	70	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP71552	DO33400	Female	76	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP71576	DO33408	Female	68	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP71734	DO33472	Female	75	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP71758	DO33480	Male	52	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP71846	DO33512	Female	NA	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP71950	DO33544	Female	83	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP72262	DO32875	Male	69	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP73263	DO33960	Male	57	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP73319	DO33984	Male	64	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP74896	DO34312	Female	58	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP75202	DO34432	Female	82	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP75322	DO34448	Female	79	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP75681	DO34264	Female	63	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP75977	DO34600	Male	77	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP76001	DO34608	Female	72	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP76017	DO34288	Female	83	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP76353	DO34656	Female	61	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP76515	DO34696	Male	75	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP76675	DO34736	Female	78	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP76843	DO34785	Female	67	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP76867	DO34793	Male	56	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP76955	DO34817	Female	72	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP77131	DO34849	Female	86	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP77203	DO34905	Male	64	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP77339	DO32976	Female	73	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP77848	DO35114	Female	65	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP77866	DO35132	Male	69	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP77872	DO35138	Female	69	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP77888	DO35148	Female	77	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP77930	DO35184	Male	75	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP77956	DO35118	Female	79	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP77972	DO35186	Female	76	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP77986	DO35200	Female	62	LIVING	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP78013	DO35152	Male	55	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP78502	DO35216	Female	63	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma
+SP78533	DO35085	Male	59	DECEASED	Pancreatic Cancer	Pancreatic Adenocarcinoma

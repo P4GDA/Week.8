@@ -1,0 +1,21 @@
+sample.ID       patient.ID      sex     age     survival_status cancer_type     detailed_cancer_type
+SP107575	DO48977	Female	43	LIVING	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP107595	DO48987	Female	36	LIVING	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP107603	DO48991	Female	46	DECEASED	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP107607	DO48993	Female	43	LIVING	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP107624	DO49001	Female	35	LIVING	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP107640	DO49009	Female	34	LIVING	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP107650	DO49014	Female	46	DECEASED	Cervical Cancer	Cervical Adenocarcinoma
+SP109801	DO49880	Female	38	LIVING	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP109941	DO49948	Female	26	LIVING	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP109953	DO49954	Female	32	LIVING	Cervical Cancer	Cervical Adenocarcinoma
+SP109957	DO49956	Female	40	LIVING	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP114016	DO51592	Female	49	DECEASED	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP114020	DO51594	Female	50	LIVING	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP114032	DO51600	Female	58	LIVING	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP13072	DO6249	Female	50	DECEASED	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP13078	DO6252	Female	26	DECEASED	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP13084	DO6255	Female	58	LIVING	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP13206	DO6314	Female	30	LIVING	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP13242	DO6332	Female	25	LIVING	Cervical Cancer	Cervical Squamous Cell Carcinoma 
+SP96540	DO44285	Female	21	DECEASED	Cervical Cancer	Cervical Squamous Cell Carcinoma 

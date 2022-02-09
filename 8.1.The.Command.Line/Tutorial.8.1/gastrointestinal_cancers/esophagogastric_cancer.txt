@@ -1,0 +1,166 @@
+sample.ID       patient.ID      sex     age     survival_status cancer_type     detailed_cancer_type
+SP104984	DO47737	Male	52	LIVING	Esophagogastric Cancer	Mucinous Stomach Adenocarcinoma
+SP105006	DO47747	Male	74	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP105018	DO47753	Male	65	LIVING	Esophagogastric Cancer	Mucinous Stomach Adenocarcinoma
+SP105086	DO47785	Male	72	LIVING	Esophagogastric Cancer	Diffuse Type Stomach Adenocarcinoma
+SP105159	DO47817	Male	51	LIVING	Esophagogastric Cancer	Stomach Adenocarcinoma
+SP105213	DO47841	Male	70	LIVING	Esophagogastric Cancer	Diffuse Type Stomach Adenocarcinoma
+SP105253	DO47859	Female	65	LIVING	Esophagogastric Cancer	Intestinal Type Stomach Adenocarcinoma
+SP105261	DO47863	Female	90	LIVING	Esophagogastric Cancer	Stomach Adenocarcinoma
+SP105375	DO47911	Female	54	LIVING	Esophagogastric Cancer	Stomach Adenocarcinoma
+SP105425	DO47929	Male	72	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP105577	DO47997	Male	63	LIVING	Esophagogastric Cancer	Stomach Adenocarcinoma
+SP105673	DO48040	Male	44	LIVING	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP110842	DO50306	Male	78	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP110845	DO50307	Male	73	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP110846	DO50309	Male	78	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP110847	DO50311	Male	70	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP110849	DO50453	Male	68	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP110851	DO50314	Female	81	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP110853	DO50315	Female	87	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP110855	DO50316	Male	56	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP110857	DO50318	Male	67	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP110859	DO50319	Male	64	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP110860	DO50320	Male	67	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP110861	DO50321	Male	83	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP110863	DO50437	Male	58	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP110865	DO50323	Male	67	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP110866	DO50438	Female	70	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111000	DO50325	Male	65	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111001	DO50326	Male	62	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111002	DO50327	Male	76	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111004	DO50331	Male	75	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111006	DO50332	Male	78	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111008	DO50340	Male	71	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111009	DO50435	Male	53	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111011	DO50345	Male	75	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111013	DO50349	Male	72	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111014	DO50350	Male	51	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111015	DO50439	Male	56	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111017	DO50440	Male	72	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111019	DO50355	Male	60	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111021	DO50356	Male	66	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111024	DO50364	Male	59	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111026	DO50447	Male	72	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111027	DO50367	Male	51	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111029	DO50370	Male	71	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111030	DO50372	Male	63	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111031	DO50374	Male	50	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111033	DO50449	Male	59	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111035	DO50451	Female	43	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111036	DO50381	Male	58	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111038	DO50388	Male	71	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111039	DO50390	Male	67	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111040	DO50392	Male	49	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111042	DO50395	Male	74	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111043	DO50398	Female	47	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111045	DO50399	Male	75	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111047	DO50454	Male	73	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111049	DO50401	Male	77	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111051	DO50402	Female	50	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111052	DO50405	Male	66	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111054	DO50407	Male	65	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111056	DO50408	Male	57	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111057	DO50409	Male	67	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111058	DO50411	Male	72	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111059	DO50412	Male	67	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111061	DO50330	Male	67	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111064	DO50337	Male	69	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111066	DO50342	Male	66	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111067	DO50354	Male	61	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111069	DO50365	Female	73	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111070	DO50382	Male	74	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111072	DO50383	Male	75	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111074	DO50403	Male	58	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111075	DO50410	Male	76	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111076	DO50336	Male	53	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111077	DO50346	Male	65	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111078	DO50436	Male	61	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111080	DO50396	Female	68	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111082	DO50338	Female	80	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111084	DO50393	Male	76	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111086	DO50328	Male	74	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111088	DO50329	Male	56	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111089	DO50434	Male	75	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111091	DO50339	Female	79	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111092	DO50341	Male	77	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111094	DO50343	Male	77	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111095	DO50348	Male	68	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111096	DO50357	Male	59	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111098	DO50445	Female	79	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111099	DO50446	Male	75	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111101	DO50362	Male	64	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111112	DO50448	Male	79	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111113	DO50450	Male	78	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111114	DO50384	Male	82	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111116	DO50385	Male	76	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111117	DO50387	Male	81	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111119	DO50389	Male	65	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111164	DO50441	Male	60	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111166	DO50442	Male	81	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111168	DO50443	Female	79	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111170	DO50444	Male	77	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111173	DO50452	Male	61	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP111175	DO50406	Male	74	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP135180	DO222275	Male	69	DECEASED	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP135182	DO218068	Male	81	LIVING	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP135184	DO222286	Male	55	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135186	DO222292	Male	65	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135188	DO222299	Male	69	DECEASED	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP135194	DO224498	Male	70	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135205	DO222276	Male	36	DECEASED	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135209	DO218089	Male	61	DECEASED	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135213	DO218282	Male	59	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135217	DO218517	Female	48	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135222	DO218728	Female	59	DECEASED	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP135226	DO217867	Male	55	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135230	DO218088	Male	58	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135234	DO217814	Male	66	DECEASED	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135238	DO218019	Male	54	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135240	DO222285	Male	71	DECEASED	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP135258	DO218230	Male	79	DECEASED	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135262	DO218442	Male	74	LIVING	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP135270	DO218673	Male	73	LIVING	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP135293	DO217817	Male	57	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135299	DO218030	Male	61	LIVING	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP135310	DO218487	Male	62	LIVING	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP135323	DO217818	Female	80	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135390	DO222288	Male	67	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135393	DO218443	Male	58	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135405	DO218769	Male	55	LIVING	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP135411	DO217896	Male	69	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135415	DO218774	Male	63	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135420	DO217822	Male	65	LIVING	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP135425	DO218136	Male	71	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP135431	DO218223	Female	47	LIVING	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP135436	DO218547	Female	46	LIVING	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP23496	DO10839	Female	79	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP23498	DO10840	Male	73	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP23500	DO10841	Male	63	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP23502	DO10858	Female	62	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP23504	DO10843	Male	76	LIVING	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP23506	DO10844	Male	76	DECEASED	Esophagogastric Cancer	Esophageal Adenocarcinoma
+SP83967	DO38190	Male	77	LIVING	Esophagogastric Cancer	Diffuse Type Stomach Adenocarcinoma
+SP84056	DO38226	Male	NA	LIVING	Esophagogastric Cancer	Stomach Adenocarcinoma
+SP84062	DO38229	Female	46	LIVING	Esophagogastric Cancer	Diffuse Type Stomach Adenocarcinoma
+SP84086	DO38238	Female	64	LIVING	Esophagogastric Cancer	Diffuse Type Stomach Adenocarcinoma
+SP84392	DO38380	Male	85	LIVING	Esophagogastric Cancer	Intestinal Type Stomach Adenocarcinoma
+SP84408	DO38388	Male	62	LIVING	Esophagogastric Cancer	Stomach Adenocarcinoma
+SP84439	DO38404	Female	78	LIVING	Esophagogastric Cancer	Stomach Adenocarcinoma
+SP84491	DO38423	Male	77	LIVING	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP84719	DO38535	Female	67	LIVING	Esophagogastric Cancer	Diffuse Type Stomach Adenocarcinoma
+SP84743	DO38547	Female	70	LIVING	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP84790	DO38571	Male	74	LIVING	Esophagogastric Cancer	Mucinous Stomach Adenocarcinoma
+SP84858	DO38603	Female	70	LIVING	Esophagogastric Cancer	Tubular Stomach Adenocarcinoma
+SP84922	DO38635	Male	62	LIVING	Esophagogastric Cancer	Papillary Stomach Adenocarcinoma
+SP84962	DO38655	Female	74	LIVING	Esophagogastric Cancer	Stomach Adenocarcinoma
+SP84982	DO38663	Female	78	LIVING	Esophagogastric Cancer	Stomach Adenocarcinoma
+SP84998	DO38671	Male	39	LIVING	Esophagogastric Cancer	Stomach Adenocarcinoma
+SP85130	DO38731	Male	79	DECEASED	Esophagogastric Cancer	Stomach Adenocarcinoma
+SP85222	DO38775	Male	45	LIVING	Esophagogastric Cancer	Intestinal Type Stomach Adenocarcinoma
+SP85230	DO38779	Male	68	LIVING	Esophagogastric Cancer	Intestinal Type Stomach Adenocarcinoma
+SP85251	DO38791	Female	76	LIVING	Esophagogastric Cancer	Stomach Adenocarcinoma
+SP85287	DO38807	Female	86	DECEASED	Esophagogastric Cancer	Stomach Adenocarcinoma
+SP85339	DO38831	Male	50	LIVING	Esophagogastric Cancer	Diffuse Type Stomach Adenocarcinoma
+SP85379	DO38847	Male	59	DECEASED	Esophagogastric Cancer	Diffuse Type Stomach Adenocarcinoma
+SP85431	DO38871	Male	58	LIVING	Esophagogastric Cancer	Stomach Adenocarcinoma

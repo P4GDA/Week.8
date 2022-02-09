@@ -1,0 +1,25 @@
+sample.ID       patient.ID      sex     age     survival_status cancer_type     detailed_cancer_type
+SP89519	DO40867	Female	45	DECEASED	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP89651	DO40930	Female	72	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP89909	DO41056	Female	76	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP90269	DO41229	Female	65	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP90725	DO41446	Female	56	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP91265	DO41716	Female	74	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP92268	DO42209	Female	60	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP92332	DO42240	Female	68	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP92364	DO42256	Female	64	DECEASED	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP92460	DO42304	Female	79	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP92659	DO42400	Female	69	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP92707	DO42424	Female	38	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP92723	DO42432	Female	65	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP92787	DO42464	Female	72	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP92931	DO42536	Female	73	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP92947	DO42544	Female	61	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP93772	DO42937	Female	74	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP94332	DO43210	Female	44	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP94540	DO43314	Female	62	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP94661	DO43378	Female	90	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP94917	DO43506	Female	35	DECEASED	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP94933	DO43514	Female	71	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP95126	DO43610	Female	82	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma
+SP95406	DO43739	Female	59	LIVING	Uterine Endometrioid Carcinoma	Uterine Endometrioid Carcinoma

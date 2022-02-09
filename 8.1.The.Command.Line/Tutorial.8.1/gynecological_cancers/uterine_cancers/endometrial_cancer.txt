@@ -1,0 +1,21 @@
+sample.ID       patient.ID      sex     age     survival_status cancer_type     detailed_cancer_type
+SP89389	DO40806	Female	69	LIVING	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP89443	DO40831	Female	71	LIVING	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP89687	DO40948	Female	71	LIVING	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP89957	DO41080	Female	60	DECEASED	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP90125	DO41157	Female	67	LIVING	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP90245	DO41217	Female	61	LIVING	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP90503	DO41343	Female	87	LIVING	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP90629	DO41398	Female	76	LIVING	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP90893	DO41530	Female	81	LIVING	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP91666	DO41911	Female	63	LIVING	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP91730	DO41943	Female	84	LIVING	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP91746	DO41951	Female	67	LIVING	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP92195	DO42169	Female	70	DECEASED	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP93652	DO42881	Female	59	DECEASED	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP94060	DO43074	Female	74	DECEASED	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP94236	DO43162	Female	71	LIVING	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP94588	DO43338	Female	77	LIVING	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP95222	DO43658	Female	67	LIVING	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP95550	DO43811	Female	74	LIVING	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma
+SP95646	DO43859	Female	62	DECEASED	Endometrial Cancer	Uterine Serous Carcinoma/Uterine Papillary Serous Carcinoma

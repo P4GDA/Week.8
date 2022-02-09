@@ -1,0 +1,104 @@
+sample.ID       patient.ID      sex     age     survival_status cancer_type     detailed_cancer_type
+SP116604	DO52647	Male	46	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116606	DO52648	Female	78	DECEASED	Mature B-cell lymphoma	Follicular lymphoma
+SP116608	DO52649	Female	68	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116610	DO52650	Male	84	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116614	DO52652	Female	75	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116616	DO52653	Female	69	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116618	DO52654	Female	70	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116620	DO52655	Female	75	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116622	DO52656	Male	41	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116624	DO52657	Male	74	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116627	DO52658	Male	52	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116630	DO52659	Female	62	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116635	DO52661	Male	40	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116638	DO52662	Male	43	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116642	DO52663	Female	76	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116645	DO52664	Male	50	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116648	DO52666	Female	57	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116649	DO52667	Male	73	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116652	DO52668	Male	4	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP116654	DO52669	Female	67	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116657	DO52670	Female	75	DECEASED	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116659	DO52671	Female	74	DECEASED	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116663	DO52672	Female	55	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116668	DO52674	Female	53	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116670	DO52675	Female	70	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116672	DO52676	Female	55	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116674	DO52677	Female	42	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116676	DO52679	Female	36	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116679	DO52680	Female	64	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116683	DO52681	Male	54	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116686	DO52682	Female	56	LIVING	Mature B-cell lymphoma	Diffse large B-cell lymphoma
+SP116688	DO52683	Female	44	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116690	DO52684	Male	46	DECEASED	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116694	DO52685	Female	62	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116697	DO52686	Male	62	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116701	DO52687	Female	65	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116703	DO52688	Female	60	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116706	DO52689	Male	68	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116709	DO52690	Female	74	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP116712	DO52691	Male	10	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP116715	DO52692	Female	79	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116718	DO52693	Female	62	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116720	DO52694	Female	72	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116723	DO52695	Female	74	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP116725	DO52696	Male	10	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP116726	DO52665	Male	46	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP124969	DO221123	Male	73	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP124971	DO221124	Female	85	DECEASED	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP124977	DO221127	Male	58	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP124981	DO221129	Female	57	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP127628	DO222303	Male	51	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP127630	DO222304	Female	38	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP127632	DO222305	Female	28	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP127634	DO222306	Female	57	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP127636	DO222307	Male	42	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP127638	DO222308	Female	70	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP127640	DO222309	Female	60	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59270	DO27763	Male	10	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP59272	DO27764	Male	12	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP59276	DO27765	Male	4	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP59280	DO27767	Male	15	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59284	DO27769	Male	13	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP59288	DO27771	Male	8	LIVING	Mature B-cell lymphoma	Diffse large B-cell lymphoma
+SP59292	DO27773	Male	43	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP59296	DO27775	Male	4	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP59300	DO27777	Male	15	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59304	DO27779	Female	75	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59308	DO27781	Female	40	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP59312	DO27783	Male	72	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59316	DO27785	Female	51	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP59320	DO27787	Female	74	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP59324	DO27789	Male	66	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59328	DO27791	Male	6	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP59332	DO27793	Male	14	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP59336	DO27795	Female	18	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP59340	DO27797	Male	48	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP59344	DO27799	Male	17	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP59348	DO27801	Male	74	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP59352	DO27803	Male	67	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP59356	DO27805	Male	76	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP59360	DO27807	Male	16	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59364	DO27809	Female	73	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59368	DO27811	Male	49	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59372	DO27813	Female	74	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59376	DO27815	Female	16	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59380	DO27817	Male	71	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP59384	DO27819	Male	5	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP59388	DO27821	Male	10	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP59392	DO27823	Male	5	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP59396	DO27825	Male	4	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP59400	DO27827	Male	59	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59404	DO27829	Male	8	LIVING	Mature B-cell lymphoma	Burkitt lymphoma
+SP59412	DO27833	Male	64	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59416	DO27835	Male	62	DECEASED	Mature B-cell lymphoma	Follicular lymphoma
+SP59420	DO27837	Male	56	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP59432	DO27843	Male	72	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP59436	DO27845	Female	52	LIVING	Mature B-cell lymphoma	Follicular lymphoma
+SP59444	DO27849	Male	70	DECEASED	Mature B-cell lymphoma	Follicular lymphoma
+SP59448	DO27851	Female	41	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59452	DO27853	Male	62	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59456	DO27855	Female	61	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59460	DO27857	Female	57	LIVING	Mature B-cell lymphoma	Diffuse Large B-Cell Lymphoma, NOS
+SP59464	DO27859	Female	47	LIVING	Mature B-cell lymphoma	Follicular lymphoma

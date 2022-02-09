@@ -1,0 +1,14 @@
+sample.ID       patient.ID      sex     age     survival_status cancer_type     detailed_cancer_type
+SP116784	DO52726	Female	52	LIVING	Essential Thrombocythemia	Essential Thrombocythemia
+SP116789	DO52727	Male	56	DECEASED	Essential Thrombocythemia	Essential Thrombocythemia
+SP116797	DO52731	Female	38	LIVING	Essential Thrombocythemia	Essential Thrombocythemia
+SP116862	DO52745	Male	64	LIVING	Essential Thrombocythemia	Essential Thrombocythemia
+SP116871	DO52749	Female	58	LIVING	Essential Thrombocythemia	Essential Thrombocythemia
+SP116878	DO52750	Female	65	DECEASED	Essential Thrombocythemia	Essential Thrombocythemia
+SP116888	DO52752	Male	50	DECEASED	Essential Thrombocythemia	Essential Thrombocythemia
+SP116891	DO52753	Female	45	LIVING	Essential Thrombocythemia	Essential Thrombocythemia
+SP116897	DO52754	Male	46	LIVING	Essential Thrombocythemia	Essential Thrombocythemia
+SP116902	DO52756	Female	70	LIVING	Essential Thrombocythemia	Essential Thrombocythemia
+SP116904	DO52757	Male	27	DECEASED	Essential Thrombocythemia	Essential Thrombocythemia
+SP116913	DO52760	Male	85	LIVING	Essential Thrombocythemia	Essential Thrombocythemia
+SP116927	DO52763	Male	59	DECEASED	Essential Thrombocythemia	Essential Thrombocythemia

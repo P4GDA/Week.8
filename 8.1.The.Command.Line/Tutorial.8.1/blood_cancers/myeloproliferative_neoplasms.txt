@@ -1,0 +1,12 @@
+sample.ID       patient.ID      sex     age     survival_status cancer_type     detailed_cancer_type
+SP116794	DO52729	Male	77	DECEASED	Myelodysplastic/Myeloproliferative Neoplasms	MDS/MPN with Ring Sideroblasts and Thrombocytosis
+SP116804	DO52733	Female	53	LIVING	Myelodysplastic/Myeloproliferative Neoplasms	Polycythemia vera
+SP116819	DO52736	Female	50	LIVING	Myelodysplastic/Myeloproliferative Neoplasms	Polycythemia vera
+SP116824	DO52737	Male	64	DECEASED	Myelodysplastic/Myeloproliferative Neoplasms	Polycythemia vera
+SP116829	DO52738	Male	39	DECEASED	Myelodysplastic/Myeloproliferative Neoplasms	Polycythemia vera
+SP116848	DO52742	Female	72	LIVING	Myelodysplastic/Myeloproliferative Neoplasms	Polycythemia vera
+SP116853	DO52743	Male	34	LIVING	Myelodysplastic/Myeloproliferative Neoplasms	Polycythemia vera
+SP116857	DO52744	Female	54	LIVING	Myelodysplastic/Myeloproliferative Neoplasms	Polycythemia vera
+SP116866	DO52747	Female	74	DECEASED	Myelodysplastic/Myeloproliferative Neoplasms	Chronic Myelomonocytic Leukemia
+SP116909	DO52758	Female	59	LIVING	Myelodysplastic/Myeloproliferative Neoplasms	Polycythemia vera
+SP116923	DO52762	Female	53	LIVING	Myelodysplastic/Myeloproliferative Neoplasms	Polycythemia vera

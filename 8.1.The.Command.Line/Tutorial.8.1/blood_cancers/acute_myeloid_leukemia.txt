@@ -1,0 +1,14 @@
+sample.ID	patient.ID	sex	age	survival_status	cancer_type	detailed_cancer_type
+SP108998	DO49528	Male	54	LIVING	Acute myeloid leukemia	Acute myeloid leukemia
+SP108999	DO49529	Male	54	LIVING	Acute myeloid leukemia	Acute myeloid leukemia
+SP109001	DO49531	Male	49	DECEASED	Acute myeloid leukemia	Acute myeloid leukemia
+SP109002	DO49532	Female	39	LIVING	Acute myeloid leukemia	Acute myeloid leukemia
+SP109003	DO49533	Male	39	LIVING	Acute myeloid leukemia	Acute myeloid leukemia
+SP109006	DO49536	Male	46	LIVING	Acute myeloid leukemia	Acute myeloid leukemia
+SP109007	DO49537	Female	50	LIVING	Acute myeloid leukemia	Acute myeloid leukemia
+SP116802	DO52732	Female	75	DECEASED	Acute myeloid leukemia	Acute myeloid leukemia
+SP116835	DO52739	Female	66	DECEASED	Acute myeloid leukemia	Acute myeloid leukemia
+SP116839	DO52740	Male	45	DECEASED	Acute myeloid leukemia	Acute myeloid leukemia
+SP116885	DO52751	Male	70	DECEASED	Acute myeloid leukemia	Acute myeloid leukemia
+SP116919	DO52761	Male	57	DECEASED	Acute myeloid leukemia	Acute myeloid leukemia
+SP127706	DO221548	Female	35	LIVING	Acute myeloid leukemia	Acute myeloid leukemia
