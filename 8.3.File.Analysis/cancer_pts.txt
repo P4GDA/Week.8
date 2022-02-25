@@ -1,0 +1,2344 @@
+patient.ID	sex	age	cancer.type
+DO49528	Male	54	Acute myeloid leukemia
+DO49529	Male	54	Acute myeloid leukemia
+DO49531	Male	49	Acute myeloid leukemia
+DO49532	Female	39	Acute myeloid leukemia
+DO49533	Male	39	Acute myeloid leukemia
+DO49536	Male	46	Acute myeloid leukemia
+DO49537	Female	50	Acute myeloid leukemia
+DO52732	Female	75	Acute myeloid leukemia
+DO52739	Female	66	Acute myeloid leukemia
+DO52740	Male	45	Acute myeloid leukemia
+DO52751	Male	70	Acute myeloid leukemia
+DO52761	Male	57	Acute myeloid leukemia
+DO221548	Female	35	Acute myeloid leukemia
+DO44097	Male	76	Bladder Cancer
+DO472	Male	53	Bladder Cancer
+DO477	Male	79	Bladder Cancer
+DO479	Male	34	Bladder Cancer
+DO483	Female	67	Bladder Cancer
+DO496	Female	53	Bladder Cancer
+DO498	Male	84	Bladder Cancer
+DO522	Female	64	Bladder Cancer
+DO536	Male	65	Bladder Cancer
+DO548	Male	57	Bladder Cancer
+DO555	Female	79	Bladder Cancer
+DO561	Male	54	Bladder Cancer
+DO575	Female	43	Bladder Cancer
+DO639	Male	69	Bladder Cancer
+DO669	Male	77	Bladder Cancer
+DO675	Female	81	Bladder Cancer
+DO689	Female	59	Bladder Cancer
+DO695	Male	73	Bladder Cancer
+DO720	Female	80	Bladder Cancer
+DO804	Male	63	Bladder Cancer
+DO822	Male	65	Bladder Cancer
+DO828	Male	52	Bladder Cancer
+DO856	Male	76	Bladder Cancer
+DO52564	Female	NA	Bone Cancer
+DO52565	Male	NA	Bone Cancer
+DO52568	Female	NA	Bone Cancer
+DO52569	Female	NA	Bone Cancer
+DO52572	Male	NA	Bone Cancer
+DO52574	Female	NA	Bone Cancer
+DO52575	Female	NA	Bone Cancer
+DO52576	Female	NA	Bone Cancer
+DO52577	Male	NA	Bone Cancer
+DO52580	Male	NA	Bone Cancer
+DO52582	Male	NA	Bone Cancer
+DO52583	Male	NA	Bone Cancer
+DO52584	Female	NA	Bone Cancer
+DO52585	Male	NA	Bone Cancer
+DO52590	Male	NA	Bone Cancer
+DO52591	Male	NA	Bone Cancer
+DO52592	Male	NA	Bone Cancer
+DO52593	Male	NA	Bone Cancer
+DO52594	Male	NA	Bone Cancer
+DO52595	Male	NA	Bone Cancer
+DO52596	Female	NA	Bone Cancer
+DO52597	Female	NA	Bone Cancer
+DO52598	Female	NA	Bone Cancer
+DO52599	Female	NA	Bone Cancer
+DO52600	Female	NA	Bone Cancer
+DO52601	Female	NA	Bone Cancer
+DO52602	Male	NA	Bone Cancer
+DO52603	Male	NA	Bone Cancer
+DO52604	Female	NA	Bone Cancer
+DO52605	Male	NA	Bone Cancer
+DO52610	Male	NA	Bone Cancer
+DO52611	Female	NA	Bone Cancer
+DO52613	Female	NA	Bone Cancer
+DO52615	Female	NA	Bone Cancer
+DO52616	Male	NA	Bone Cancer
+DO52617	Female	NA	Bone Cancer
+DO52618	Male	NA	Bone Cancer
+DO52619	Male	NA	Bone Cancer
+DO52620	Female	NA	Bone Cancer
+DO52636	Female	NA	Bone Cancer
+DO52639	Male	NA	Bone Cancer
+DO52640	Male	NA	Bone Cancer
+DO52641	Female	NA	Bone Cancer
+DO52642	Female	NA	Bone Cancer
+DO52643	Female	NA	Bone Cancer
+DO52645	Female	NA	Bone Cancer
+DO52646	Female	NA	Bone Cancer
+DO1000	Female	61	Breast Cancer
+DO1001	Female	41	Breast Cancer
+DO1002	Female	39	Breast Cancer
+DO1003	Female	34	Breast Cancer
+DO1004	Female	59	Breast Cancer
+DO1005	Female	39	Breast Cancer
+DO1007	Female	64	Breast Cancer
+DO1008	Female	58	Breast Cancer
+DO1009	Female	32	Breast Cancer
+DO1010	Female	67	Breast Cancer
+DO1011	Female	54	Breast Cancer
+DO1012	Female	32	Breast Cancer
+DO1013	Female	NA	Breast Cancer
+DO1014	Female	NA	Breast Cancer
+DO1015	Female	NA	Breast Cancer
+DO1016	Female	NA	Breast Cancer
+DO1017	Female	49	Breast Cancer
+DO1018	Female	46	Breast Cancer
+DO1020	Female	33	Breast Cancer
+DO1076	Female	NA	Breast Cancer
+DO1249	Female	72	Breast Cancer
+DO1257	Female	30	Breast Cancer
+DO1274	Female	40	Breast Cancer
+DO1281	Female	62	Breast Cancer
+DO1287	Female	38	Breast Cancer
+DO1290	Female	71	Breast Cancer
+DO1291	Female	57	Breast Cancer
+DO1301	Female	53	Breast Cancer
+DO1328	Female	78	Breast Cancer
+DO1384	Female	38	Breast Cancer
+DO1392	Female	46	Breast Cancer
+DO1537	Female	40	Breast Cancer
+DO1559	Female	41	Breast Cancer
+DO1663	Female	64	Breast Cancer
+DO1954	Female	40	Breast Cancer
+DO2055	Female	67	Breast Cancer
+DO2078	Female	50	Breast Cancer
+DO2084	Female	82	Breast Cancer
+DO2096	Female	61	Breast Cancer
+DO2114	Female	69	Breast Cancer
+DO217786	Female	86	Breast Cancer
+DO217787	Female	89	Breast Cancer
+DO217788	Female	76	Breast Cancer
+DO217800	Female	NA	Breast Cancer
+DO217826	Female	39	Breast Cancer
+DO217844	Female	47	Breast Cancer
+DO217865	Female	79	Breast Cancer
+DO217887	Female	NA	Breast Cancer
+DO217907	Female	65	Breast Cancer
+DO217908	Female	55	Breast Cancer
+DO217931	Female	58	Breast Cancer
+DO217934	Female	NA	Breast Cancer
+DO217939	Female	47	Breast Cancer
+DO217952	Female	NA	Breast Cancer
+DO217953	Female	43	Breast Cancer
+DO217962	Female	48	Breast Cancer
+DO217987	Female	44	Breast Cancer
+DO218059	Female	42	Breast Cancer
+DO218060	Female	NA	Breast Cancer
+DO218062	Female	76	Breast Cancer
+DO218065	Female	NA	Breast Cancer
+DO218072	Female	38	Breast Cancer
+DO218121	Female	48	Breast Cancer
+DO218150	Female	73	Breast Cancer
+DO218159	Female	61	Breast Cancer
+DO218167	Female	47	Breast Cancer
+DO218168	Female	51	Breast Cancer
+DO218173	Female	59	Breast Cancer
+DO218174	Female	48	Breast Cancer
+DO218176	Female	39	Breast Cancer
+DO218182	Female	77	Breast Cancer
+DO218205	Female	59	Breast Cancer
+DO218212	Female	67	Breast Cancer
+DO218254	Female	46	Breast Cancer
+DO218269	Female	49	Breast Cancer
+DO218333	Female	51	Breast Cancer
+DO218347	Female	35	Breast Cancer
+DO218377	Female	42	Breast Cancer
+DO218384	Female	64	Breast Cancer
+DO218388	Female	56	Breast Cancer
+DO218404	Female	55	Breast Cancer
+DO218408	Female	42	Breast Cancer
+DO218419	Female	51	Breast Cancer
+DO218428	Female	84	Breast Cancer
+DO218457	Female	64	Breast Cancer
+DO218478	Female	55	Breast Cancer
+DO218488	Female	48	Breast Cancer
+DO218489	Female	45	Breast Cancer
+DO218502	Female	56	Breast Cancer
+DO218506	Female	66	Breast Cancer
+DO218553	Female	59	Breast Cancer
+DO218560	Female	58	Breast Cancer
+DO218573	Female	48	Breast Cancer
+DO218583	Female	63	Breast Cancer
+DO218605	Female	60	Breast Cancer
+DO218611	Female	49	Breast Cancer
+DO218621	Female	64	Breast Cancer
+DO218651	Female	38	Breast Cancer
+DO218656	Female	41	Breast Cancer
+DO218669	Female	76	Breast Cancer
+DO218684	Female	NA	Breast Cancer
+DO218698	Female	44	Breast Cancer
+DO218709	Female	59	Breast Cancer
+DO218742	Female	45	Breast Cancer
+DO218770	Female	52	Breast Cancer
+DO218796	Female	34	Breast Cancer
+DO218827	Female	49	Breast Cancer
+DO218828	Female	50	Breast Cancer
+DO218831	Female	64	Breast Cancer
+DO220820	Female	69	Breast Cancer
+DO220821	Female	NA	Breast Cancer
+DO220822	Female	51	Breast Cancer
+DO220823	Female	82	Breast Cancer
+DO220824	Female	63	Breast Cancer
+DO220825	Female	40	Breast Cancer
+DO220828	Female	57	Breast Cancer
+DO2222	Female	58	Breast Cancer
+DO2252	Female	41	Breast Cancer
+DO2323	Female	56	Breast Cancer
+DO2341	Female	61	Breast Cancer
+DO2455	Female	79	Breast Cancer
+DO2503	Female	41	Breast Cancer
+DO2509	Female	65	Breast Cancer
+DO2539	Female	69	Breast Cancer
+DO2551	Female	52	Breast Cancer
+DO2593	Female	75	Breast Cancer
+DO2647	Female	62	Breast Cancer
+DO2694	Female	73	Breast Cancer
+DO2706	Female	39	Breast Cancer
+DO2712	Female	69	Breast Cancer
+DO2719	Female	84	Breast Cancer
+DO2783	Female	62	Breast Cancer
+DO2842	Female	58	Breast Cancer
+DO2897	Female	82	Breast Cancer
+DO2995	Female	60	Breast Cancer
+DO3037	Male	77	Breast Cancer
+DO3110	Female	89	Breast Cancer
+DO3140	Female	71	Breast Cancer
+DO3158	Female	69	Breast Cancer
+DO3182	Female	78	Breast Cancer
+DO3188	Female	84	Breast Cancer
+DO3412	Female	55	Breast Cancer
+DO3458	Female	34	Breast Cancer
+DO3482	Female	61	Breast Cancer
+DO3500	Female	55	Breast Cancer
+DO3614	Female	62	Breast Cancer
+DO3662	Female	71	Breast Cancer
+DO3804	Female	52	Breast Cancer
+DO3840	Female	53	Breast Cancer
+DO3874	Female	55	Breast Cancer
+DO3958	Female	76	Breast Cancer
+DO4018	Female	50	Breast Cancer
+DO4036	Female	63	Breast Cancer
+DO4080	Female	57	Breast Cancer
+DO4138	Female	73	Breast Cancer
+DO4155	Female	45	Breast Cancer
+DO4185	Female	42	Breast Cancer
+DO4233	Female	61	Breast Cancer
+DO4359	Female	50	Breast Cancer
+DO44103	Female	49	Breast Cancer
+DO44111	Female	49	Breast Cancer
+DO44273	Female	57	Breast Cancer
+DO4449	Female	56	Breast Cancer
+DO4473	Female	38	Breast Cancer
+DO4557	Female	49	Breast Cancer
+DO4635	Female	52	Breast Cancer
+DO4695	Female	70	Breast Cancer
+DO4719	Female	70	Breast Cancer
+DO4766	Female	64	Breast Cancer
+DO4796	Female	48	Breast Cancer
+DO4963	Female	36	Breast Cancer
+DO5012	Female	52	Breast Cancer
+DO5046	Female	61	Breast Cancer
+DO5200	Female	72	Breast Cancer
+DO5249	Female	34	Breast Cancer
+DO52538	Female	59	Breast Cancer
+DO52539	Female	39	Breast Cancer
+DO52540	Female	52	Breast Cancer
+DO52542	Female	61	Breast Cancer
+DO52543	Female	56	Breast Cancer
+DO52544	Female	43	Breast Cancer
+DO52545	Female	64	Breast Cancer
+DO52546	Female	65	Breast Cancer
+DO52547	Female	NA	Breast Cancer
+DO52548	Female	41	Breast Cancer
+DO52549	Female	79	Breast Cancer
+DO52550	Female	46	Breast Cancer
+DO52551	Female	36	Breast Cancer
+DO52552	Female	62	Breast Cancer
+DO52553	Female	30	Breast Cancer
+DO52554	Female	46	Breast Cancer
+DO52555	Female	68	Breast Cancer
+DO52556	Female	56	Breast Cancer
+DO52557	Female	41	Breast Cancer
+DO52558	Female	43	Breast Cancer
+DO52559	Female	42	Breast Cancer
+DO52560	Female	70	Breast Cancer
+DO52561	Female	75	Breast Cancer
+DO52562	Female	49	Breast Cancer
+DO5312	Female	45	Breast Cancer
+DO5347	Female	37	Breast Cancer
+DO5375	Female	39	Breast Cancer
+DO5626	Female	40	Breast Cancer
+DO5661	Female	78	Breast Cancer
+DO5696	Female	62	Breast Cancer
+DO5745	Female	58	Breast Cancer
+DO5808	Female	59	Breast Cancer
+DO6144	Female	59	Breast Cancer
+DO6231	Female	66	Breast Cancer
+DO44285	Female	21	Cervical Cancer
+DO48977	Female	43	Cervical Cancer
+DO48987	Female	36	Cervical Cancer
+DO48991	Female	46	Cervical Cancer
+DO48993	Female	43	Cervical Cancer
+DO49001	Female	35	Cervical Cancer
+DO49009	Female	34	Cervical Cancer
+DO49014	Female	46	Cervical Cancer
+DO49880	Female	38	Cervical Cancer
+DO49948	Female	26	Cervical Cancer
+DO49954	Female	32	Cervical Cancer
+DO49956	Female	40	Cervical Cancer
+DO51592	Female	49	Cervical Cancer
+DO51594	Female	50	Cervical Cancer
+DO51600	Female	58	Cervical Cancer
+DO6249	Female	50	Cervical Cancer
+DO6252	Female	26	Cervical Cancer
+DO6255	Female	58	Cervical Cancer
+DO6314	Female	30	Cervical Cancer
+DO6332	Female	25	Cervical Cancer
+DO10172	Male	31	Colorectal Cancer
+DO10486	Female	81	Colorectal Cancer
+DO10631	Female	63	Colorectal Cancer
+DO219106	Female	55	Colorectal Cancer
+DO36386	Male	63	Colorectal Cancer
+DO36431	Male	62	Colorectal Cancer
+DO36459	Female	85	Colorectal Cancer
+DO36556	Male	57	Colorectal Cancer
+DO36572	Female	67	Colorectal Cancer
+DO36619	Female	71	Colorectal Cancer
+DO36710	Male	75	Colorectal Cancer
+DO36801	Female	72	Colorectal Cancer
+DO36822	Female	41	Colorectal Cancer
+DO36945	Male	68	Colorectal Cancer
+DO36969	Female	48	Colorectal Cancer
+DO37074	Male	87	Colorectal Cancer
+DO37138	Female	78	Colorectal Cancer
+DO37259	Female	85	Colorectal Cancer
+DO37267	Female	89	Colorectal Cancer
+DO44086	Female	68	Colorectal Cancer
+DO44087	Male	56	Colorectal Cancer
+DO44088	Female	64	Colorectal Cancer
+DO44089	Male	51	Colorectal Cancer
+DO44090	Female	34	Colorectal Cancer
+DO44091	Female	74	Colorectal Cancer
+DO44092	Female	55	Colorectal Cancer
+DO44093	Female	61	Colorectal Cancer
+DO44094	Male	69	Colorectal Cancer
+DO44095	Male	57	Colorectal Cancer
+DO7801	Male	46	Colorectal Cancer
+DO7822	Male	59	Colorectal Cancer
+DO7831	Male	74	Colorectal Cancer
+DO7858	Male	73	Colorectal Cancer
+DO7990	Female	57	Colorectal Cancer
+DO8004	Female	80	Colorectal Cancer
+DO8047	Male	69	Colorectal Cancer
+DO8264	Male	57	Colorectal Cancer
+DO8360	Male	58	Colorectal Cancer
+DO8658	Male	69	Colorectal Cancer
+DO8730	Male	65	Colorectal Cancer
+DO8858	Female	64	Colorectal Cancer
+DO8898	Female	81	Colorectal Cancer
+DO9034	Female	53	Colorectal Cancer
+DO9042	Male	68	Colorectal Cancer
+DO9074	Female	72	Colorectal Cancer
+DO9106	Female	47	Colorectal Cancer
+DO9226	Male	82	Colorectal Cancer
+DO9700	Male	65	Colorectal Cancer
+DO9732	Female	78	Colorectal Cancer
+DO9788	Female	73	Colorectal Cancer
+DO9876	Male	75	Colorectal Cancer
+DO9940	Female	78	Colorectal Cancer
+DO35539	Male	7	Embryonal Tumor
+DO35540	Female	16	Embryonal Tumor
+DO35541	Female	6	Embryonal Tumor
+DO35542	Female	14	Embryonal Tumor
+DO35543	Male	9	Embryonal Tumor
+DO35544	Female	11	Embryonal Tumor
+DO35545	Male	6	Embryonal Tumor
+DO35550	Male	17	Embryonal Tumor
+DO35551	Male	3	Embryonal Tumor
+DO35552	Female	15	Embryonal Tumor
+DO35553	Female	13	Embryonal Tumor
+DO35554	Female	13	Embryonal Tumor
+DO35555	Female	9	Embryonal Tumor
+DO35558	Female	10	Embryonal Tumor
+DO35559	Male	7	Embryonal Tumor
+DO35564	Male	8	Embryonal Tumor
+DO35568	Female	14	Embryonal Tumor
+DO35569	Female	8	Embryonal Tumor
+DO35571	Female	13	Embryonal Tumor
+DO35572	Female	4	Embryonal Tumor
+DO35573	Male	4	Embryonal Tumor
+DO35576	Male	4	Embryonal Tumor
+DO35577	Male	3	Embryonal Tumor
+DO35581	Male	3	Embryonal Tumor
+DO35582	Female	6	Embryonal Tumor
+DO35584	Male	10	Embryonal Tumor
+DO35585	Female	10	Embryonal Tumor
+DO35586	Male	7	Embryonal Tumor
+DO35611	Male	19	Embryonal Tumor
+DO35612	Male	18	Embryonal Tumor
+DO35613	Male	18	Embryonal Tumor
+DO35616	Female	14	Embryonal Tumor
+DO35617	Male	12	Embryonal Tumor
+DO35618	Female	5	Embryonal Tumor
+DO35619	Male	4	Embryonal Tumor
+DO35621	Female	4	Embryonal Tumor
+DO35622	Male	2	Embryonal Tumor
+DO35623	Male	15	Embryonal Tumor
+DO35624	Male	10	Embryonal Tumor
+DO35625	Female	15	Embryonal Tumor
+DO35626	Male	3	Embryonal Tumor
+DO35627	Male	3	Embryonal Tumor
+DO35628	Male	8	Embryonal Tumor
+DO35654	Male	16	Embryonal Tumor
+DO35668	Male	8	Embryonal Tumor
+DO35676	Female	9	Embryonal Tumor
+DO35678	Female	9	Embryonal Tumor
+DO35704	Male	3	Embryonal Tumor
+DO35723	Female	9	Embryonal Tumor
+DO35725	Male	11	Embryonal Tumor
+DO35733	Male	3	Embryonal Tumor
+DO35737	Male	10	Embryonal Tumor
+DO35739	Female	10	Embryonal Tumor
+DO35741	Female	4	Embryonal Tumor
+DO35747	Male	8	Embryonal Tumor
+DO35749	Male	16	Embryonal Tumor
+DO35753	Male	11	Embryonal Tumor
+DO35755	Female	5	Embryonal Tumor
+DO35757	Male	8	Embryonal Tumor
+DO35763	Female	3	Embryonal Tumor
+DO35841	Male	16	Embryonal Tumor
+DO35845	Male	5	Embryonal Tumor
+DO35857	Male	3	Embryonal Tumor
+DO48889	Female	42	Embryonal Tumor
+DO48890	Female	23	Embryonal Tumor
+DO48892	Male	23	Embryonal Tumor
+DO48894	Male	27	Embryonal Tumor
+DO48896	Male	22	Embryonal Tumor
+DO48898	Female	29	Embryonal Tumor
+DO48899	Male	23	Embryonal Tumor
+DO48902	Female	29	Embryonal Tumor
+DO48904	Male	38	Embryonal Tumor
+DO48905	Male	32	Embryonal Tumor
+DO48906	Female	49	Embryonal Tumor
+DO48907	Male	31	Embryonal Tumor
+DO48912	Male	35	Embryonal Tumor
+DO48914	Female	19	Embryonal Tumor
+DO48915	Female	31	Embryonal Tumor
+DO48917	Female	22	Embryonal Tumor
+DO48918	Female	10	Embryonal Tumor
+DO48919	Male	13	Embryonal Tumor
+DO48920	Female	7	Embryonal Tumor
+DO48922	Male	4	Embryonal Tumor
+DO48923	Female	10	Embryonal Tumor
+DO48924	Male	3	Embryonal Tumor
+DO48927	Female	NA	Embryonal Tumor
+DO48929	Female	NA	Embryonal Tumor
+DO48930	Female	NA	Embryonal Tumor
+DO48932	Female	NA	Embryonal Tumor
+DO48934	Male	4	Embryonal Tumor
+DO48935	Male	5	Embryonal Tumor
+DO48936	Male	7	Embryonal Tumor
+DO48938	Male	21	Embryonal Tumor
+DO48940	Male	16	Embryonal Tumor
+DO48941	Male	11	Embryonal Tumor
+DO48943	Female	6	Embryonal Tumor
+DO48945	Male	26	Embryonal Tumor
+DO48948	Male	3	Embryonal Tumor
+DO48949	Male	12	Embryonal Tumor
+DO48950	Male	3	Embryonal Tumor
+DO48951	Female	NA	Embryonal Tumor
+DO48952	Female	3	Embryonal Tumor
+DO48953	Female	NA	Embryonal Tumor
+DO48955	Female	NA	Embryonal Tumor
+DO48957	Male	8	Embryonal Tumor
+DO48958	Male	9	Embryonal Tumor
+DO48959	Female	5	Embryonal Tumor
+DO48961	Female	NA	Embryonal Tumor
+DO48963	Male	9	Embryonal Tumor
+DO48964	Male	5	Embryonal Tumor
+DO48965	Male	4	Embryonal Tumor
+DO48966	Female	8	Embryonal Tumor
+DO48967	Female	4	Embryonal Tumor
+DO48968	Male	3	Embryonal Tumor
+DO48969	Female	9	Embryonal Tumor
+DO48970	Female	2	Embryonal Tumor
+DO48971	Male	18	Embryonal Tumor
+DO48972	Female	11	Embryonal Tumor
+DO48973	Female	10	Embryonal Tumor
+DO48974	Female	NA	Embryonal Tumor
+DO40806	Female	69	Endometrial Cancer
+DO40831	Female	71	Endometrial Cancer
+DO40948	Female	71	Endometrial Cancer
+DO41080	Female	60	Endometrial Cancer
+DO41157	Female	67	Endometrial Cancer
+DO41217	Female	61	Endometrial Cancer
+DO41343	Female	87	Endometrial Cancer
+DO41398	Female	76	Endometrial Cancer
+DO41530	Female	81	Endometrial Cancer
+DO41911	Female	63	Endometrial Cancer
+DO41943	Female	84	Endometrial Cancer
+DO41951	Female	67	Endometrial Cancer
+DO42169	Female	70	Endometrial Cancer
+DO42881	Female	59	Endometrial Cancer
+DO43074	Female	74	Endometrial Cancer
+DO43162	Female	71	Endometrial Cancer
+DO43338	Female	77	Endometrial Cancer
+DO43658	Female	67	Endometrial Cancer
+DO43811	Female	74	Endometrial Cancer
+DO43859	Female	62	Endometrial Cancer
+DO10839	Female	79	Esophagogastric Cancer
+DO10840	Male	73	Esophagogastric Cancer
+DO10841	Male	63	Esophagogastric Cancer
+DO10843	Male	76	Esophagogastric Cancer
+DO10844	Male	76	Esophagogastric Cancer
+DO10858	Female	62	Esophagogastric Cancer
+DO217814	Male	66	Esophagogastric Cancer
+DO217817	Male	57	Esophagogastric Cancer
+DO217818	Female	80	Esophagogastric Cancer
+DO217822	Male	65	Esophagogastric Cancer
+DO217867	Male	55	Esophagogastric Cancer
+DO217896	Male	69	Esophagogastric Cancer
+DO218019	Male	54	Esophagogastric Cancer
+DO218030	Male	61	Esophagogastric Cancer
+DO218068	Male	81	Esophagogastric Cancer
+DO218088	Male	58	Esophagogastric Cancer
+DO218089	Male	61	Esophagogastric Cancer
+DO218136	Male	71	Esophagogastric Cancer
+DO218223	Female	47	Esophagogastric Cancer
+DO218230	Male	79	Esophagogastric Cancer
+DO218282	Male	59	Esophagogastric Cancer
+DO218442	Male	74	Esophagogastric Cancer
+DO218443	Male	58	Esophagogastric Cancer
+DO218487	Male	62	Esophagogastric Cancer
+DO218517	Female	48	Esophagogastric Cancer
+DO218547	Female	46	Esophagogastric Cancer
+DO218673	Male	73	Esophagogastric Cancer
+DO218728	Female	59	Esophagogastric Cancer
+DO218769	Male	55	Esophagogastric Cancer
+DO218774	Male	63	Esophagogastric Cancer
+DO222275	Male	69	Esophagogastric Cancer
+DO222276	Male	36	Esophagogastric Cancer
+DO222285	Male	71	Esophagogastric Cancer
+DO222286	Male	55	Esophagogastric Cancer
+DO222288	Male	67	Esophagogastric Cancer
+DO222292	Male	65	Esophagogastric Cancer
+DO222299	Male	69	Esophagogastric Cancer
+DO224498	Male	70	Esophagogastric Cancer
+DO38190	Male	77	Esophagogastric Cancer
+DO38226	Male	NA	Esophagogastric Cancer
+DO38229	Female	46	Esophagogastric Cancer
+DO38238	Female	64	Esophagogastric Cancer
+DO38380	Male	85	Esophagogastric Cancer
+DO38388	Male	62	Esophagogastric Cancer
+DO38404	Female	78	Esophagogastric Cancer
+DO38423	Male	77	Esophagogastric Cancer
+DO38535	Female	67	Esophagogastric Cancer
+DO38547	Female	70	Esophagogastric Cancer
+DO38571	Male	74	Esophagogastric Cancer
+DO38603	Female	70	Esophagogastric Cancer
+DO38635	Male	62	Esophagogastric Cancer
+DO38655	Female	74	Esophagogastric Cancer
+DO38663	Female	78	Esophagogastric Cancer
+DO38671	Male	39	Esophagogastric Cancer
+DO38731	Male	79	Esophagogastric Cancer
+DO38775	Male	45	Esophagogastric Cancer
+DO38779	Male	68	Esophagogastric Cancer
+DO38791	Female	76	Esophagogastric Cancer
+DO38807	Female	86	Esophagogastric Cancer
+DO38831	Male	50	Esophagogastric Cancer
+DO38847	Male	59	Esophagogastric Cancer
+DO38871	Male	58	Esophagogastric Cancer
+DO47737	Male	52	Esophagogastric Cancer
+DO47747	Male	74	Esophagogastric Cancer
+DO47753	Male	65	Esophagogastric Cancer
+DO47785	Male	72	Esophagogastric Cancer
+DO47817	Male	51	Esophagogastric Cancer
+DO47841	Male	70	Esophagogastric Cancer
+DO47859	Female	65	Esophagogastric Cancer
+DO47863	Female	90	Esophagogastric Cancer
+DO47911	Female	54	Esophagogastric Cancer
+DO47929	Male	72	Esophagogastric Cancer
+DO47997	Male	63	Esophagogastric Cancer
+DO48040	Male	44	Esophagogastric Cancer
+DO50306	Male	78	Esophagogastric Cancer
+DO50307	Male	73	Esophagogastric Cancer
+DO50309	Male	78	Esophagogastric Cancer
+DO50311	Male	70	Esophagogastric Cancer
+DO50314	Female	81	Esophagogastric Cancer
+DO50315	Female	87	Esophagogastric Cancer
+DO50316	Male	56	Esophagogastric Cancer
+DO50318	Male	67	Esophagogastric Cancer
+DO50319	Male	64	Esophagogastric Cancer
+DO50320	Male	67	Esophagogastric Cancer
+DO50321	Male	83	Esophagogastric Cancer
+DO50323	Male	67	Esophagogastric Cancer
+DO50325	Male	65	Esophagogastric Cancer
+DO50326	Male	62	Esophagogastric Cancer
+DO50327	Male	76	Esophagogastric Cancer
+DO50328	Male	74	Esophagogastric Cancer
+DO50329	Male	56	Esophagogastric Cancer
+DO50330	Male	67	Esophagogastric Cancer
+DO50331	Male	75	Esophagogastric Cancer
+DO50332	Male	78	Esophagogastric Cancer
+DO50336	Male	53	Esophagogastric Cancer
+DO50337	Male	69	Esophagogastric Cancer
+DO50338	Female	80	Esophagogastric Cancer
+DO50339	Female	79	Esophagogastric Cancer
+DO50340	Male	71	Esophagogastric Cancer
+DO50341	Male	77	Esophagogastric Cancer
+DO50342	Male	66	Esophagogastric Cancer
+DO50343	Male	77	Esophagogastric Cancer
+DO50345	Male	75	Esophagogastric Cancer
+DO50346	Male	65	Esophagogastric Cancer
+DO50348	Male	68	Esophagogastric Cancer
+DO50349	Male	72	Esophagogastric Cancer
+DO50350	Male	51	Esophagogastric Cancer
+DO50354	Male	61	Esophagogastric Cancer
+DO50355	Male	60	Esophagogastric Cancer
+DO50356	Male	66	Esophagogastric Cancer
+DO50357	Male	59	Esophagogastric Cancer
+DO50362	Male	64	Esophagogastric Cancer
+DO50364	Male	59	Esophagogastric Cancer
+DO50365	Female	73	Esophagogastric Cancer
+DO50367	Male	51	Esophagogastric Cancer
+DO50370	Male	71	Esophagogastric Cancer
+DO50372	Male	63	Esophagogastric Cancer
+DO50374	Male	50	Esophagogastric Cancer
+DO50381	Male	58	Esophagogastric Cancer
+DO50382	Male	74	Esophagogastric Cancer
+DO50383	Male	75	Esophagogastric Cancer
+DO50384	Male	82	Esophagogastric Cancer
+DO50385	Male	76	Esophagogastric Cancer
+DO50387	Male	81	Esophagogastric Cancer
+DO50388	Male	71	Esophagogastric Cancer
+DO50389	Male	65	Esophagogastric Cancer
+DO50390	Male	67	Esophagogastric Cancer
+DO50392	Male	49	Esophagogastric Cancer
+DO50393	Male	76	Esophagogastric Cancer
+DO50395	Male	74	Esophagogastric Cancer
+DO50396	Female	68	Esophagogastric Cancer
+DO50398	Female	47	Esophagogastric Cancer
+DO50399	Male	75	Esophagogastric Cancer
+DO50401	Male	77	Esophagogastric Cancer
+DO50402	Female	50	Esophagogastric Cancer
+DO50403	Male	58	Esophagogastric Cancer
+DO50405	Male	66	Esophagogastric Cancer
+DO50406	Male	74	Esophagogastric Cancer
+DO50407	Male	65	Esophagogastric Cancer
+DO50408	Male	57	Esophagogastric Cancer
+DO50409	Male	67	Esophagogastric Cancer
+DO50410	Male	76	Esophagogastric Cancer
+DO50411	Male	72	Esophagogastric Cancer
+DO50412	Male	67	Esophagogastric Cancer
+DO50434	Male	75	Esophagogastric Cancer
+DO50435	Male	53	Esophagogastric Cancer
+DO50436	Male	61	Esophagogastric Cancer
+DO50437	Male	58	Esophagogastric Cancer
+DO50438	Female	70	Esophagogastric Cancer
+DO50439	Male	56	Esophagogastric Cancer
+DO50440	Male	72	Esophagogastric Cancer
+DO50441	Male	60	Esophagogastric Cancer
+DO50442	Male	81	Esophagogastric Cancer
+DO50443	Female	79	Esophagogastric Cancer
+DO50444	Male	77	Esophagogastric Cancer
+DO50445	Female	79	Esophagogastric Cancer
+DO50446	Male	75	Esophagogastric Cancer
+DO50447	Male	72	Esophagogastric Cancer
+DO50448	Male	79	Esophagogastric Cancer
+DO50449	Male	59	Esophagogastric Cancer
+DO50450	Male	78	Esophagogastric Cancer
+DO50451	Female	43	Esophagogastric Cancer
+DO50452	Male	61	Esophagogastric Cancer
+DO50453	Male	68	Esophagogastric Cancer
+DO50454	Male	73	Esophagogastric Cancer
+DO52726	Female	52	Essential Thrombocythemia
+DO52727	Male	56	Essential Thrombocythemia
+DO52731	Female	38	Essential Thrombocythemia
+DO52745	Male	64	Essential Thrombocythemia
+DO52749	Female	58	Essential Thrombocythemia
+DO52750	Female	65	Essential Thrombocythemia
+DO52752	Male	50	Essential Thrombocythemia
+DO52753	Female	45	Essential Thrombocythemia
+DO52754	Male	46	Essential Thrombocythemia
+DO52756	Female	70	Essential Thrombocythemia
+DO52757	Male	27	Essential Thrombocythemia
+DO52760	Male	85	Essential Thrombocythemia
+DO52763	Male	59	Essential Thrombocythemia
+DO10900	Female	50	Glioma
+DO10908	Male	63	Glioma
+DO10960	Male	66	Glioma
+DO10970	Male	36	Glioma
+DO11046	Male	60	Glioma
+DO11202	Female	52	Glioma
+DO11292	Male	61	Glioma
+DO11441	Female	63	Glioma
+DO11501	Female	59	Glioma
+DO11776	Male	42	Glioma
+DO11782	Male	62	Glioma
+DO11860	Male	66	Glioma
+DO12034	Male	59	Glioma
+DO12070	Female	58	Glioma
+DO12352	Male	43	Glioma
+DO12370	Male	56	Glioma
+DO12454	Male	60	Glioma
+DO12484	Male	51	Glioma
+DO12742	Male	53	Glioma
+DO12814	Female	63	Glioma
+DO12952	Male	70	Glioma
+DO13072	Male	72	Glioma
+DO13132	Male	66	Glioma
+DO13144	Male	59	Glioma
+DO13192	Female	53	Glioma
+DO13318	Male	76	Glioma
+DO13348	Male	53	Glioma
+DO13474	Male	74	Glioma
+DO13575	Female	21	Glioma
+DO14049	Male	51	Glioma
+DO22106	Male	21	Glioma
+DO22117	Female	32	Glioma
+DO22145	Female	47	Glioma
+DO22195	Female	42	Glioma
+DO22285	Male	35	Glioma
+DO22293	Male	62	Glioma
+DO22295	Female	35	Glioma
+DO22324	Male	39	Glioma
+DO22356	Male	43	Glioma
+DO22382	Male	53	Glioma
+DO22417	Female	29	Glioma
+DO22490	Female	31	Glioma
+DO22496	Male	17	Glioma
+DO22524	Female	62	Glioma
+DO22536	Female	48	Glioma
+DO22548	Female	57	Glioma
+DO22720	Male	43	Glioma
+DO22736	Male	37	Glioma
+DO14171	Male	49	Head and Neck Cancer
+DO14192	Male	60	Head and Neck Cancer
+DO14204	Male	57	Head and Neck Cancer
+DO14232	Female	58	Head and Neck Cancer
+DO14236	Male	47	Head and Neck Cancer
+DO14238	Male	39	Head and Neck Cancer
+DO14242	Male	28	Head and Neck Cancer
+DO14250	Male	62	Head and Neck Cancer
+DO14264	Male	73	Head and Neck Cancer
+DO14282	Male	42	Head and Neck Cancer
+DO14296	Male	53	Head and Neck Cancer
+DO14343	Male	68	Head and Neck Cancer
+DO14420	Male	53	Head and Neck Cancer
+DO14502	Male	39	Head and Neck Cancer
+DO14566	Male	61	Head and Neck Cancer
+DO14582	Female	35	Head and Neck Cancer
+DO14614	Male	62	Head and Neck Cancer
+DO14678	Female	76	Head and Neck Cancer
+DO14686	Male	38	Head and Neck Cancer
+DO14718	Female	32	Head and Neck Cancer
+DO14742	Male	34	Head and Neck Cancer
+DO14750	Female	71	Head and Neck Cancer
+DO14814	Male	64	Head and Neck Cancer
+DO14862	Male	47	Head and Neck Cancer
+DO14942	Male	59	Head and Neck Cancer
+DO15014	Female	62	Head and Neck Cancer
+DO15022	Male	38	Head and Neck Cancer
+DO15046	Male	53	Head and Neck Cancer
+DO15110	Male	19	Head and Neck Cancer
+DO15198	Female	36	Head and Neck Cancer
+DO15398	Male	67	Head and Neck Cancer
+DO15414	Female	52	Head and Neck Cancer
+DO15430	Female	56	Head and Neck Cancer
+DO15503	Male	66	Head and Neck Cancer
+DO15527	Male	50	Head and Neck Cancer
+DO15591	Male	73	Head and Neck Cancer
+DO15791	Male	57	Head and Neck Cancer
+DO15815	Male	67	Head and Neck Cancer
+DO15870	Male	59	Head and Neck Cancer
+DO15911	Male	63	Head and Neck Cancer
+DO15943	Male	62	Head and Neck Cancer
+DO16015	Male	71	Head and Neck Cancer
+DO217836	Male	44	Head and Neck Cancer
+DO217950	Male	64	Head and Neck Cancer
+DO218012	Male	32	Head and Neck Cancer
+DO218034	Male	47	Head and Neck Cancer
+DO218075	Male	50	Head and Neck Cancer
+DO218180	Male	44	Head and Neck Cancer
+DO218211	Female	60	Head and Neck Cancer
+DO218280	Male	51	Head and Neck Cancer
+DO218306	Male	45	Head and Neck Cancer
+DO218462	Male	39	Head and Neck Cancer
+DO218554	Male	42	Head and Neck Cancer
+DO218697	Male	62	Head and Neck Cancer
+DO218773	Male	26	Head and Neck Cancer
+DO52029	Male	57	Head and Neck Cancer
+DO217850	Female	65	Hepatobiliary Cancer
+DO217864	Male	63	Hepatobiliary Cancer
+DO218139	Male	45	Hepatobiliary Cancer
+DO218227	Male	37	Hepatobiliary Cancer
+DO218351	Female	49	Hepatobiliary Cancer
+DO218411	Female	56	Hepatobiliary Cancer
+DO218417	Female	53	Hepatobiliary Cancer
+DO218440	Female	76	Hepatobiliary Cancer
+DO218491	Female	76	Hepatobiliary Cancer
+DO218535	Female	69	Hepatobiliary Cancer
+DO218550	Male	61	Hepatobiliary Cancer
+DO218695	Male	60	Hepatobiliary Cancer
+DO219580	Male	58	Hepatobiliary Cancer
+DO22836	Female	72	Hepatobiliary Cancer
+DO22838	Male	80	Hepatobiliary Cancer
+DO22839	Male	61	Hepatobiliary Cancer
+DO22854	Male	70	Hepatobiliary Cancer
+DO22860	Female	61	Hepatobiliary Cancer
+DO22866	Male	68	Hepatobiliary Cancer
+DO22875	Male	44	Hepatobiliary Cancer
+DO22884	Female	45	Hepatobiliary Cancer
+DO22887	Female	72	Hepatobiliary Cancer
+DO22896	Female	75	Hepatobiliary Cancer
+DO22914	Female	81	Hepatobiliary Cancer
+DO22929	Female	62	Hepatobiliary Cancer
+DO22932	Female	46	Hepatobiliary Cancer
+DO22935	Male	73	Hepatobiliary Cancer
+DO22953	Male	67	Hepatobiliary Cancer
+DO22956	Male	54	Hepatobiliary Cancer
+DO22959	Male	46	Hepatobiliary Cancer
+DO22970	Female	79	Hepatobiliary Cancer
+DO22978	Female	38	Hepatobiliary Cancer
+DO22986	Male	23	Hepatobiliary Cancer
+DO22994	Female	71	Hepatobiliary Cancer
+DO22998	Male	68	Hepatobiliary Cancer
+DO23018	Male	64	Hepatobiliary Cancer
+DO23023	Female	52	Hepatobiliary Cancer
+DO23028	Male	50	Hepatobiliary Cancer
+DO23048	Male	23	Hepatobiliary Cancer
+DO23073	Female	52	Hepatobiliary Cancer
+DO23508	Female	79	Hepatobiliary Cancer
+DO23509	Male	60	Hepatobiliary Cancer
+DO23510	Female	80	Hepatobiliary Cancer
+DO23512	Male	60	Hepatobiliary Cancer
+DO23513	Male	76	Hepatobiliary Cancer
+DO23514	Male	64	Hepatobiliary Cancer
+DO23515	Male	71	Hepatobiliary Cancer
+DO23516	Male	69	Hepatobiliary Cancer
+DO23517	Male	62	Hepatobiliary Cancer
+DO23518	Male	67	Hepatobiliary Cancer
+DO23519	Male	65	Hepatobiliary Cancer
+DO23520	Male	59	Hepatobiliary Cancer
+DO23521	Male	63	Hepatobiliary Cancer
+DO23522	Female	82	Hepatobiliary Cancer
+DO23524	Female	71	Hepatobiliary Cancer
+DO23525	Male	71	Hepatobiliary Cancer
+DO23526	Male	66	Hepatobiliary Cancer
+DO23527	Male	72	Hepatobiliary Cancer
+DO23528	Female	45	Hepatobiliary Cancer
+DO23529	Male	72	Hepatobiliary Cancer
+DO23530	Male	53	Hepatobiliary Cancer
+DO23532	Female	71	Hepatobiliary Cancer
+DO23533	Male	61	Hepatobiliary Cancer
+DO23534	Male	60	Hepatobiliary Cancer
+DO23535	Male	67	Hepatobiliary Cancer
+DO23536	Male	56	Hepatobiliary Cancer
+DO23537	Male	79	Hepatobiliary Cancer
+DO23538	Male	67	Hepatobiliary Cancer
+DO23539	Male	77	Hepatobiliary Cancer
+DO23540	Male	73	Hepatobiliary Cancer
+DO23541	Male	65	Hepatobiliary Cancer
+DO23542	Male	66	Hepatobiliary Cancer
+DO23543	Male	63	Hepatobiliary Cancer
+DO23544	Male	67	Hepatobiliary Cancer
+DO23545	Male	67	Hepatobiliary Cancer
+DO23546	Male	63	Hepatobiliary Cancer
+DO23547	Male	74	Hepatobiliary Cancer
+DO23549	Male	74	Hepatobiliary Cancer
+DO23550	Male	69	Hepatobiliary Cancer
+DO23551	Male	73	Hepatobiliary Cancer
+DO23552	Female	80	Hepatobiliary Cancer
+DO44740	Male	73	Hepatobiliary Cancer
+DO44744	Male	46	Hepatobiliary Cancer
+DO44806	Male	65	Hepatobiliary Cancer
+DO44828	Female	65	Hepatobiliary Cancer
+DO44832	Male	70	Hepatobiliary Cancer
+DO44872	Female	70	Hepatobiliary Cancer
+DO44875	Female	72	Hepatobiliary Cancer
+DO44877	Male	52	Hepatobiliary Cancer
+DO44883	Male	75	Hepatobiliary Cancer
+DO44885	Male	77	Hepatobiliary Cancer
+DO44888	Female	64	Hepatobiliary Cancer
+DO44889	Female	75	Hepatobiliary Cancer
+DO44890	Female	51	Hepatobiliary Cancer
+DO44919	Male	80	Hepatobiliary Cancer
+DO44930	Female	67	Hepatobiliary Cancer
+DO44966	Female	84	Hepatobiliary Cancer
+DO44974	Male	47	Hepatobiliary Cancer
+DO44978	Male	70	Hepatobiliary Cancer
+DO44982	Male	67	Hepatobiliary Cancer
+DO44986	Female	56	Hepatobiliary Cancer
+DO44994	Male	75	Hepatobiliary Cancer
+DO45009	Female	76	Hepatobiliary Cancer
+DO45029	Female	73	Hepatobiliary Cancer
+DO45035	Male	58	Hepatobiliary Cancer
+DO45037	Female	67	Hepatobiliary Cancer
+DO45039	Male	58	Hepatobiliary Cancer
+DO45041	Female	69	Hepatobiliary Cancer
+DO45043	Male	56	Hepatobiliary Cancer
+DO45045	Male	57	Hepatobiliary Cancer
+DO45047	Female	40	Hepatobiliary Cancer
+DO45049	Male	73	Hepatobiliary Cancer
+DO45051	Female	57	Hepatobiliary Cancer
+DO45055	Female	60	Hepatobiliary Cancer
+DO45057	Male	65	Hepatobiliary Cancer
+DO45059	Female	49	Hepatobiliary Cancer
+DO45061	Male	53	Hepatobiliary Cancer
+DO45064	Male	66	Hepatobiliary Cancer
+DO45065	Male	41	Hepatobiliary Cancer
+DO45067	Male	66	Hepatobiliary Cancer
+DO45069	Male	58	Hepatobiliary Cancer
+DO45071	Male	58	Hepatobiliary Cancer
+DO45073	Male	50	Hepatobiliary Cancer
+DO45075	Male	66	Hepatobiliary Cancer
+DO45077	Male	66	Hepatobiliary Cancer
+DO45079	Male	59	Hepatobiliary Cancer
+DO45081	Male	63	Hepatobiliary Cancer
+DO45083	Male	62	Hepatobiliary Cancer
+DO45085	Male	68	Hepatobiliary Cancer
+DO45087	Male	56	Hepatobiliary Cancer
+DO45089	Male	45	Hepatobiliary Cancer
+DO45091	Male	56	Hepatobiliary Cancer
+DO45092	Male	62	Hepatobiliary Cancer
+DO45093	Male	71	Hepatobiliary Cancer
+DO45094	Male	76	Hepatobiliary Cancer
+DO45095	Male	66	Hepatobiliary Cancer
+DO45096	Male	69	Hepatobiliary Cancer
+DO45097	Male	69	Hepatobiliary Cancer
+DO45099	Male	46	Hepatobiliary Cancer
+DO45101	Male	63	Hepatobiliary Cancer
+DO45103	Male	47	Hepatobiliary Cancer
+DO45105	Male	61	Hepatobiliary Cancer
+DO45107	Female	63	Hepatobiliary Cancer
+DO45109	Male	63	Hepatobiliary Cancer
+DO45111	Male	74	Hepatobiliary Cancer
+DO45113	Male	58	Hepatobiliary Cancer
+DO45115	Male	81	Hepatobiliary Cancer
+DO45117	Female	73	Hepatobiliary Cancer
+DO45119	Male	74	Hepatobiliary Cancer
+DO45121	Male	61	Hepatobiliary Cancer
+DO45123	Female	78	Hepatobiliary Cancer
+DO45125	Male	58	Hepatobiliary Cancer
+DO45127	Male	73	Hepatobiliary Cancer
+DO45129	Male	61	Hepatobiliary Cancer
+DO45131	Male	53	Hepatobiliary Cancer
+DO45133	Male	64	Hepatobiliary Cancer
+DO45135	Male	77	Hepatobiliary Cancer
+DO45137	Male	38	Hepatobiliary Cancer
+DO45139	Male	63	Hepatobiliary Cancer
+DO45141	Male	73	Hepatobiliary Cancer
+DO45143	Male	69	Hepatobiliary Cancer
+DO45145	Male	78	Hepatobiliary Cancer
+DO45147	Male	57	Hepatobiliary Cancer
+DO45149	Female	70	Hepatobiliary Cancer
+DO45151	Male	64	Hepatobiliary Cancer
+DO45153	Female	77	Hepatobiliary Cancer
+DO45155	Male	69	Hepatobiliary Cancer
+DO45157	Male	62	Hepatobiliary Cancer
+DO45159	Male	65	Hepatobiliary Cancer
+DO45161	Male	74	Hepatobiliary Cancer
+DO45163	Male	76	Hepatobiliary Cancer
+DO45165	Male	75	Hepatobiliary Cancer
+DO45167	Male	67	Hepatobiliary Cancer
+DO45169	Male	74	Hepatobiliary Cancer
+DO45171	Male	56	Hepatobiliary Cancer
+DO45173	Male	63	Hepatobiliary Cancer
+DO45175	Male	74	Hepatobiliary Cancer
+DO45177	Female	81	Hepatobiliary Cancer
+DO45179	Female	78	Hepatobiliary Cancer
+DO45181	Female	84	Hepatobiliary Cancer
+DO45183	Female	72	Hepatobiliary Cancer
+DO45185	Male	89	Hepatobiliary Cancer
+DO45187	Female	32	Hepatobiliary Cancer
+DO45189	Female	85	Hepatobiliary Cancer
+DO45191	Female	61	Hepatobiliary Cancer
+DO45193	Female	68	Hepatobiliary Cancer
+DO45195	Male	62	Hepatobiliary Cancer
+DO45197	Male	51	Hepatobiliary Cancer
+DO45199	Female	86	Hepatobiliary Cancer
+DO45201	Male	49	Hepatobiliary Cancer
+DO45203	Female	71	Hepatobiliary Cancer
+DO45205	Female	67	Hepatobiliary Cancer
+DO45207	Male	68	Hepatobiliary Cancer
+DO45209	Male	70	Hepatobiliary Cancer
+DO45211	Male	76	Hepatobiliary Cancer
+DO45213	Male	58	Hepatobiliary Cancer
+DO45215	Male	65	Hepatobiliary Cancer
+DO45217	Female	69	Hepatobiliary Cancer
+DO45219	Male	78	Hepatobiliary Cancer
+DO45221	Female	75	Hepatobiliary Cancer
+DO45223	Male	67	Hepatobiliary Cancer
+DO45225	Male	69	Hepatobiliary Cancer
+DO45227	Female	57	Hepatobiliary Cancer
+DO45229	Male	74	Hepatobiliary Cancer
+DO45231	Male	84	Hepatobiliary Cancer
+DO45233	Male	83	Hepatobiliary Cancer
+DO45235	Female	68	Hepatobiliary Cancer
+DO45237	Male	58	Hepatobiliary Cancer
+DO45239	Male	42	Hepatobiliary Cancer
+DO45241	Male	49	Hepatobiliary Cancer
+DO45243	Female	74	Hepatobiliary Cancer
+DO45245	Female	75	Hepatobiliary Cancer
+DO45247	Female	31	Hepatobiliary Cancer
+DO45249	Male	57	Hepatobiliary Cancer
+DO45251	Female	57	Hepatobiliary Cancer
+DO45253	Male	50	Hepatobiliary Cancer
+DO45255	Male	81	Hepatobiliary Cancer
+DO45257	Male	46	Hepatobiliary Cancer
+DO45259	Male	65	Hepatobiliary Cancer
+DO45263	Male	67	Hepatobiliary Cancer
+DO45265	Male	73	Hepatobiliary Cancer
+DO45267	Male	73	Hepatobiliary Cancer
+DO45269	Male	59	Hepatobiliary Cancer
+DO45273	Male	62	Hepatobiliary Cancer
+DO45277	Male	64	Hepatobiliary Cancer
+DO45281	Male	83	Hepatobiliary Cancer
+DO45283	Male	60	Hepatobiliary Cancer
+DO45285	Male	59	Hepatobiliary Cancer
+DO45287	Male	74	Hepatobiliary Cancer
+DO45289	Female	78	Hepatobiliary Cancer
+DO45291	Male	69	Hepatobiliary Cancer
+DO45293	Male	68	Hepatobiliary Cancer
+DO45295	Male	76	Hepatobiliary Cancer
+DO45297	Female	61	Hepatobiliary Cancer
+DO45299	Female	70	Hepatobiliary Cancer
+DO45301	Male	56	Hepatobiliary Cancer
+DO45303	Female	62	Hepatobiliary Cancer
+DO45305	Male	66	Hepatobiliary Cancer
+DO45307	Female	54	Hepatobiliary Cancer
+DO45309	Male	73	Hepatobiliary Cancer
+DO48505	Male	58	Hepatobiliary Cancer
+DO48518	Male	76	Hepatobiliary Cancer
+DO48552	Male	25	Hepatobiliary Cancer
+DO48672	Male	81	Hepatobiliary Cancer
+DO48674	Male	80	Hepatobiliary Cancer
+DO48677	Male	58	Hepatobiliary Cancer
+DO48679	Male	72	Hepatobiliary Cancer
+DO48681	Male	57	Hepatobiliary Cancer
+DO48682	Female	72	Hepatobiliary Cancer
+DO48684	Female	71	Hepatobiliary Cancer
+DO48686	Male	75	Hepatobiliary Cancer
+DO48687	Female	73	Hepatobiliary Cancer
+DO48689	Male	63	Hepatobiliary Cancer
+DO48691	Male	71	Hepatobiliary Cancer
+DO48692	Female	77	Hepatobiliary Cancer
+DO48693	Male	71	Hepatobiliary Cancer
+DO48694	Male	71	Hepatobiliary Cancer
+DO48695	Male	77	Hepatobiliary Cancer
+DO48697	Female	64	Hepatobiliary Cancer
+DO48700	Female	78	Hepatobiliary Cancer
+DO48701	Male	78	Hepatobiliary Cancer
+DO48703	Male	64	Hepatobiliary Cancer
+DO48704	Female	68	Hepatobiliary Cancer
+DO48706	Male	72	Hepatobiliary Cancer
+DO48709	Male	74	Hepatobiliary Cancer
+DO48712	Male	50	Hepatobiliary Cancer
+DO48715	Female	58	Hepatobiliary Cancer
+DO48716	Male	71	Hepatobiliary Cancer
+DO48717	Male	54	Hepatobiliary Cancer
+DO48719	Male	80	Hepatobiliary Cancer
+DO48720	Female	62	Hepatobiliary Cancer
+DO48721	Female	58	Hepatobiliary Cancer
+DO48723	Male	73	Hepatobiliary Cancer
+DO48725	Male	66	Hepatobiliary Cancer
+DO48727	Female	81	Hepatobiliary Cancer
+DO48728	Female	74	Hepatobiliary Cancer
+DO48730	Female	73	Hepatobiliary Cancer
+DO48732	Male	73	Hepatobiliary Cancer
+DO48733	Male	72	Hepatobiliary Cancer
+DO48736	Female	76	Hepatobiliary Cancer
+DO48737	Male	52	Hepatobiliary Cancer
+DO48738	Male	83	Hepatobiliary Cancer
+DO48741	Male	64	Hepatobiliary Cancer
+DO48742	Male	76	Hepatobiliary Cancer
+DO48743	Female	69	Hepatobiliary Cancer
+DO48747	Male	62	Hepatobiliary Cancer
+DO48751	Male	68	Hepatobiliary Cancer
+DO48753	Male	55	Hepatobiliary Cancer
+DO48757	Female	68	Hepatobiliary Cancer
+DO48759	Male	73	Hepatobiliary Cancer
+DO48760	Female	70	Hepatobiliary Cancer
+DO48761	Male	55	Hepatobiliary Cancer
+DO49659	Male	63	Hepatobiliary Cancer
+DO49695	Male	78	Hepatobiliary Cancer
+DO50772	Male	70	Hepatobiliary Cancer
+DO50774	Female	68	Hepatobiliary Cancer
+DO50776	Male	75	Hepatobiliary Cancer
+DO50778	Male	60	Hepatobiliary Cancer
+DO50780	Male	70	Hepatobiliary Cancer
+DO50783	Male	62	Hepatobiliary Cancer
+DO50785	Male	37	Hepatobiliary Cancer
+DO50787	Male	63	Hepatobiliary Cancer
+DO50789	Female	73	Hepatobiliary Cancer
+DO50791	Female	79	Hepatobiliary Cancer
+DO50793	Male	76	Hepatobiliary Cancer
+DO50796	Male	69	Hepatobiliary Cancer
+DO50798	Male	77	Hepatobiliary Cancer
+DO50799	Female	66	Hepatobiliary Cancer
+DO50800	Male	74	Hepatobiliary Cancer
+DO50802	Male	49	Hepatobiliary Cancer
+DO50803	Female	62	Hepatobiliary Cancer
+DO50804	Male	81	Hepatobiliary Cancer
+DO50805	Male	72	Hepatobiliary Cancer
+DO50806	Male	70	Hepatobiliary Cancer
+DO50807	Male	67	Hepatobiliary Cancer
+DO50808	Male	68	Hepatobiliary Cancer
+DO50809	Male	56	Hepatobiliary Cancer
+DO50811	Male	62	Hepatobiliary Cancer
+DO50813	Male	56	Hepatobiliary Cancer
+DO50814	Male	83	Hepatobiliary Cancer
+DO50815	Male	62	Hepatobiliary Cancer
+DO50816	Male	63	Hepatobiliary Cancer
+DO50817	Male	75	Hepatobiliary Cancer
+DO50818	Male	65	Hepatobiliary Cancer
+DO50819	Female	72	Hepatobiliary Cancer
+DO50820	Female	77	Hepatobiliary Cancer
+DO50822	Male	66	Hepatobiliary Cancer
+DO50825	Male	70	Hepatobiliary Cancer
+DO50827	Female	48	Hepatobiliary Cancer
+DO50829	Male	78	Hepatobiliary Cancer
+DO50831	Male	52	Hepatobiliary Cancer
+DO50832	Male	73	Hepatobiliary Cancer
+DO50834	Male	72	Hepatobiliary Cancer
+DO50837	Female	53	Hepatobiliary Cancer
+DO50839	Female	47	Hepatobiliary Cancer
+DO50840	Male	49	Hepatobiliary Cancer
+DO50842	Female	75	Hepatobiliary Cancer
+DO50844	Male	75	Hepatobiliary Cancer
+DO50845	Male	72	Hepatobiliary Cancer
+DO50848	Male	74	Hepatobiliary Cancer
+DO50850	Male	74	Hepatobiliary Cancer
+DO50851	Male	80	Hepatobiliary Cancer
+DO50855	Male	47	Hepatobiliary Cancer
+DO50857	Male	72	Hepatobiliary Cancer
+DO50859	Male	77	Hepatobiliary Cancer
+DO52171	Male	50	Hepatobiliary Cancer
+DO52172	Female	26	Hepatobiliary Cancer
+DO52307	Female	58	Hepatobiliary Cancer
+DO49137	Female	67	Intraductal papillary mucinous neoplasm
+DO49172	Female	60	Intraductal papillary mucinous neoplasm
+DO33488	Male	61	Intraductal papillary mucinous neoplasm
+DO23584	Female	62	Lung Cancer
+DO23608	Female	59	Lung Cancer
+DO23610	Male	75	Lung Cancer
+DO23648	Male	NA	Lung Cancer
+DO23651	Female	74	Lung Cancer
+DO23687	Female	71	Lung Cancer
+DO23702	Female	63	Lung Cancer
+DO23735	Female	69	Lung Cancer
+DO23744	Female	65	Lung Cancer
+DO23786	Male	72	Lung Cancer
+DO23838	Male	76	Lung Cancer
+DO23942	Male	60	Lung Cancer
+DO24130	Male	81	Lung Cancer
+DO24307	Male	70	Lung Cancer
+DO24467	Male	66	Lung Cancer
+DO24497	Female	NA	Lung Cancer
+DO24646	Male	63	Lung Cancer
+DO24675	Male	41	Lung Cancer
+DO24729	Female	59	Lung Cancer
+DO24860	Male	45	Lung Cancer
+DO25010	Male	72	Lung Cancer
+DO25068	Female	52	Lung Cancer
+DO25104	Female	70	Lung Cancer
+DO25189	Male	47	Lung Cancer
+DO25320	Male	65	Lung Cancer
+DO25444	Male	76	Lung Cancer
+DO25622	Male	70	Lung Cancer
+DO25737	Male	60	Lung Cancer
+DO25797	Female	77	Lung Cancer
+DO25847	Female	47	Lung Cancer
+DO25887	Female	NA	Lung Cancer
+DO25927	Female	61	Lung Cancer
+DO25985	Female	70	Lung Cancer
+DO26062	Female	79	Lung Cancer
+DO26230	Female	52	Lung Cancer
+DO26280	Female	79	Lung Cancer
+DO26354	Female	65	Lung Cancer
+DO26563	Female	73	Lung Cancer
+DO52735	Male	78	Mastocytosis
+DO221123	Male	73	Mature B-cell lymphoma
+DO221124	Female	85	Mature B-cell lymphoma
+DO221127	Male	58	Mature B-cell lymphoma
+DO221129	Female	57	Mature B-cell lymphoma
+DO222303	Male	51	Mature B-cell lymphoma
+DO222304	Female	38	Mature B-cell lymphoma
+DO222305	Female	28	Mature B-cell lymphoma
+DO222306	Female	57	Mature B-cell lymphoma
+DO222307	Male	42	Mature B-cell lymphoma
+DO222308	Female	70	Mature B-cell lymphoma
+DO222309	Female	60	Mature B-cell lymphoma
+DO27763	Male	10	Mature B-cell lymphoma
+DO27764	Male	12	Mature B-cell lymphoma
+DO27765	Male	4	Mature B-cell lymphoma
+DO27767	Male	15	Mature B-cell lymphoma
+DO27769	Male	13	Mature B-cell lymphoma
+DO27771	Male	8	Mature B-cell lymphoma
+DO27773	Male	43	Mature B-cell lymphoma
+DO27775	Male	4	Mature B-cell lymphoma
+DO27777	Male	15	Mature B-cell lymphoma
+DO27779	Female	75	Mature B-cell lymphoma
+DO27781	Female	40	Mature B-cell lymphoma
+DO27783	Male	72	Mature B-cell lymphoma
+DO27785	Female	51	Mature B-cell lymphoma
+DO27787	Female	74	Mature B-cell lymphoma
+DO27789	Male	66	Mature B-cell lymphoma
+DO27791	Male	6	Mature B-cell lymphoma
+DO27793	Male	14	Mature B-cell lymphoma
+DO27795	Female	18	Mature B-cell lymphoma
+DO27797	Male	48	Mature B-cell lymphoma
+DO27799	Male	17	Mature B-cell lymphoma
+DO27801	Male	74	Mature B-cell lymphoma
+DO27803	Male	67	Mature B-cell lymphoma
+DO27805	Male	76	Mature B-cell lymphoma
+DO27807	Male	16	Mature B-cell lymphoma
+DO27809	Female	73	Mature B-cell lymphoma
+DO27811	Male	49	Mature B-cell lymphoma
+DO27813	Female	74	Mature B-cell lymphoma
+DO27815	Female	16	Mature B-cell lymphoma
+DO27817	Male	71	Mature B-cell lymphoma
+DO27819	Male	5	Mature B-cell lymphoma
+DO27821	Male	10	Mature B-cell lymphoma
+DO27823	Male	5	Mature B-cell lymphoma
+DO27825	Male	4	Mature B-cell lymphoma
+DO27827	Male	59	Mature B-cell lymphoma
+DO27829	Male	8	Mature B-cell lymphoma
+DO27833	Male	64	Mature B-cell lymphoma
+DO27835	Male	62	Mature B-cell lymphoma
+DO27837	Male	56	Mature B-cell lymphoma
+DO27843	Male	72	Mature B-cell lymphoma
+DO27845	Female	52	Mature B-cell lymphoma
+DO6428	Female	78	Mature B-Cell Neoplasms
+DO7018	Male	60	Mature B-Cell Neoplasms
+DO27847	Male	16	Mature B-Cell Neoplasms
+DO27849	Male	70	Mature B-cell lymphoma
+DO27851	Female	41	Mature B-cell lymphoma
+DO27853	Male	62	Mature B-cell lymphoma
+DO27855	Female	61	Mature B-cell lymphoma
+DO27857	Female	57	Mature B-cell lymphoma
+DO27859	Female	47	Mature B-cell lymphoma
+DO51967	Female	54	Mature B-Cell Neoplasms
+DO51989	Female	61	Mature B-Cell Neoplasms
+DO51992	Female	42	Mature B-Cell Neoplasms
+DO52647	Male	46	Mature B-cell lymphoma
+DO52648	Female	78	Mature B-cell lymphoma
+DO52649	Female	68	Mature B-cell lymphoma
+DO52650	Male	84	Mature B-cell lymphoma
+DO52651	Female	72	Mature B-Cell Neoplasms
+DO52652	Female	75	Mature B-cell lymphoma
+DO52653	Female	69	Mature B-cell lymphoma
+DO52654	Female	70	Mature B-cell lymphoma
+DO52655	Female	75	Mature B-cell lymphoma
+DO52656	Male	41	Mature B-cell lymphoma
+DO52657	Male	74	Mature B-cell lymphoma
+DO52658	Male	52	Mature B-cell lymphoma
+DO52659	Female	62	Mature B-cell lymphoma
+DO52661	Male	40	Mature B-cell lymphoma
+DO52662	Male	43	Mature B-cell lymphoma
+DO52663	Female	76	Mature B-cell lymphoma
+DO52664	Male	50	Mature B-cell lymphoma
+DO52665	Male	46	Mature B-cell lymphoma
+DO52666	Female	57	Mature B-cell lymphoma
+DO52667	Male	73	Mature B-cell lymphoma
+DO52668	Male	4	Mature B-cell lymphoma
+DO52669	Female	67	Mature B-cell lymphoma
+DO52670	Female	75	Mature B-cell lymphoma
+DO52671	Female	74	Mature B-cell lymphoma
+DO52672	Female	55	Mature B-cell lymphoma
+DO52673	Female	60	Mature B-Cell Neoplasms
+DO52674	Female	53	Mature B-cell lymphoma
+DO52675	Female	70	Mature B-cell lymphoma
+DO52676	Female	55	Mature B-cell lymphoma
+DO52677	Female	42	Mature B-cell lymphoma
+DO52679	Female	36	Mature B-cell lymphoma
+DO52680	Female	64	Mature B-cell lymphoma
+DO52681	Male	54	Mature B-cell lymphoma
+DO52682	Female	56	Mature B-cell lymphoma
+DO52683	Female	44	Mature B-cell lymphoma
+DO52684	Male	46	Mature B-cell lymphoma
+DO52685	Female	62	Mature B-cell lymphoma
+DO52686	Male	62	Mature B-cell lymphoma
+DO52687	Female	65	Mature B-cell lymphoma
+DO52688	Female	60	Mature B-cell lymphoma
+DO52689	Male	68	Mature B-cell lymphoma
+DO52690	Female	74	Mature B-cell lymphoma
+DO52691	Male	10	Mature B-cell lymphoma
+DO52692	Female	79	Mature B-cell lymphoma
+DO52693	Female	62	Mature B-cell lymphoma
+DO52694	Female	72	Mature B-cell lymphoma
+DO52695	Female	74	Mature B-cell lymphoma
+DO52696	Male	10	Mature B-cell lymphoma
+DO52698	Male	49	Mature B-Cell Neoplasms
+DO52699	Male	65	Mature B-Cell Neoplasms
+DO52700	Male	62	Mature B-Cell Neoplasms
+DO52701	Male	57	Mature B-Cell Neoplasms
+DO52702	Male	68	Mature B-Cell Neoplasms
+DO52703	Male	63	Mature B-Cell Neoplasms
+DO52704	Male	71	Mature B-Cell Neoplasms
+DO52706	Female	75	Mature B-Cell Neoplasms
+DO52707	Male	72	Mature B-Cell Neoplasms
+DO52708	Male	75	Mature B-Cell Neoplasms
+DO52709	Female	63	Mature B-Cell Neoplasms
+DO52710	Male	86	Mature B-Cell Neoplasms
+DO52711	Male	60	Mature B-Cell Neoplasms
+DO52712	Female	56	Mature B-Cell Neoplasms
+DO52713	Female	50	Mature B-Cell Neoplasms
+DO52714	Female	70	Mature B-Cell Neoplasms
+DO52716	Female	61	Mature B-Cell Neoplasms
+DO52717	Female	71	Mature B-Cell Neoplasms
+DO52718	Male	40	Mature B-Cell Neoplasms
+DO52719	Male	53	Mature B-Cell Neoplasms
+DO52720	Female	61	Mature B-Cell Neoplasms
+DO52721	Male	73	Mature B-Cell Neoplasms
+DO52722	Female	82	Mature B-Cell Neoplasms
+DO52724	Male	84	Mature B-Cell Neoplasms
+DO52725	Female	70	Mature B-Cell Neoplasms
+DO6350	Male	44	Mature B-Cell Neoplasms
+DO6351	Female	59	Mature B-Cell Neoplasms
+DO6352	Male	45	Mature B-Cell Neoplasms
+DO6353	Female	41	Mature B-Cell Neoplasms
+DO6354	Male	46	Mature B-Cell Neoplasms
+DO6362	Male	70	Mature B-Cell Neoplasms
+DO6364	Female	59	Mature B-Cell Neoplasms
+DO6368	Male	55	Mature B-Cell Neoplasms
+DO6370	Male	59	Mature B-Cell Neoplasms
+DO6378	Male	59	Mature B-Cell Neoplasms
+DO6382	Male	57	Mature B-Cell Neoplasms
+DO6386	Female	66	Mature B-Cell Neoplasms
+DO6388	Male	47	Mature B-Cell Neoplasms
+DO6390	Male	58	Mature B-Cell Neoplasms
+DO6394	Male	64	Mature B-Cell Neoplasms
+DO6396	Male	76	Mature B-Cell Neoplasms
+DO6398	Male	69	Mature B-Cell Neoplasms
+DO6402	Male	58	Mature B-Cell Neoplasms
+DO6410	Male	53	Mature B-Cell Neoplasms
+DO6418	Male	62	Mature B-Cell Neoplasms
+DO6430	Male	52	Mature B-Cell Neoplasms
+DO6432	Male	65	Mature B-Cell Neoplasms
+DO6434	Female	45	Mature B-Cell Neoplasms
+DO6436	Female	55	Mature B-Cell Neoplasms
+DO6438	Female	57	Mature B-Cell Neoplasms
+DO6450	Male	45	Mature B-Cell Neoplasms
+DO6470	Male	69	Mature B-Cell Neoplasms
+DO6474	Male	66	Mature B-Cell Neoplasms
+DO6492	Male	49	Mature B-Cell Neoplasms
+DO6504	Male	68	Mature B-Cell Neoplasms
+DO6513	Female	73	Mature B-Cell Neoplasms
+DO6549	Female	56	Mature B-Cell Neoplasms
+DO6552	Male	61	Mature B-Cell Neoplasms
+DO6558	Female	86	Mature B-Cell Neoplasms
+DO6561	Female	63	Mature B-Cell Neoplasms
+DO6580	Male	61	Mature B-Cell Neoplasms
+DO6585	Male	80	Mature B-Cell Neoplasms
+DO6610	Female	67	Mature B-Cell Neoplasms
+DO6665	Male	61	Mature B-Cell Neoplasms
+DO6690	Male	80	Mature B-Cell Neoplasms
+DO6695	Female	82	Mature B-Cell Neoplasms
+DO6742	Male	62	Mature B-Cell Neoplasms
+DO6748	Male	66	Mature B-Cell Neoplasms
+DO6754	Male	40	Mature B-Cell Neoplasms
+DO6898	Female	76	Mature B-Cell Neoplasms
+DO6934	Male	68	Mature B-Cell Neoplasms
+DO6946	Male	50	Mature B-Cell Neoplasms
+DO7024	Male	50	Mature B-Cell Neoplasms
+DO7084	Male	60	Mature B-Cell Neoplasms
+DO7108	Male	63	Mature B-Cell Neoplasms
+DO7112	Male	78	Mature B-Cell Neoplasms
+DO7124	Male	86	Mature B-Cell Neoplasms
+DO7136	Female	55	Mature B-Cell Neoplasms
+DO7166	Male	62	Mature B-Cell Neoplasms
+DO7172	Male	61	Mature B-Cell Neoplasms
+DO7196	Male	74	Mature B-Cell Neoplasms
+DO7214	Female	71	Mature B-Cell Neoplasms
+DO7280	Male	51	Mature B-Cell Neoplasms
+DO7304	Male	59	Mature B-Cell Neoplasms
+DO7328	Male	45	Mature B-Cell Neoplasms
+DO35538	Female	6	Medulloblastoma
+DO35547	Male	3	Medulloblastoma
+DO35556	Female	4	Medulloblastoma
+DO35566	Male	1	Medulloblastoma
+DO35574	Female	1	Medulloblastoma
+DO35575	Male	6	Medulloblastoma
+DO35620	Male	2	Medulloblastoma
+DO35721	Male	9	Medulloblastoma
+DO35847	Female	5	Medulloblastoma
+DO48888	Male	20	Medulloblastoma
+DO48891	Female	32	Medulloblastoma
+DO48893	Male	28	Medulloblastoma
+DO48895	Male	25	Medulloblastoma
+DO48900	Female	31	Medulloblastoma
+DO48909	Female	39	Medulloblastoma
+DO48911	Female	23	Medulloblastoma
+DO48925	Male	4	Medulloblastoma
+DO48937	Male	9	Medulloblastoma
+DO48939	Female	11	Medulloblastoma
+DO48944	Male	27	Medulloblastoma
+DO48946	Female	22	Medulloblastoma
+DO52729	Male	77	Myelodysplastic/Myeloproliferative Neoplasms
+DO52733	Female	53	Myelodysplastic/Myeloproliferative Neoplasms
+DO52736	Female	50	Myelodysplastic/Myeloproliferative Neoplasms
+DO52737	Male	64	Myelodysplastic/Myeloproliferative Neoplasms
+DO52738	Male	39	Myelodysplastic/Myeloproliferative Neoplasms
+DO52742	Female	72	Myelodysplastic/Myeloproliferative Neoplasms
+DO52743	Male	34	Myelodysplastic/Myeloproliferative Neoplasms
+DO52744	Female	54	Myelodysplastic/Myeloproliferative Neoplasms
+DO52747	Female	74	Myelodysplastic/Myeloproliferative Neoplasms
+DO52758	Female	59	Myelodysplastic/Myeloproliferative Neoplasms
+DO52762	Female	53	Myelodysplastic/Myeloproliferative Neoplasms
+DO26427	Male	77	Non-Small Cell Lung Cancer
+DO26434	Male	70	Non-Small Cell Lung Cancer
+DO26445	Male	71	Non-Small Cell Lung Cancer
+DO26459	Male	53	Non-Small Cell Lung Cancer
+DO26461	Male	58	Non-Small Cell Lung Cancer
+DO26463	Male	61	Non-Small Cell Lung Cancer
+DO26469	Male	62	Non-Small Cell Lung Cancer
+DO26475	Male	80	Non-Small Cell Lung Cancer
+DO26476	Male	64	Non-Small Cell Lung Cancer
+DO26492	Male	73	Non-Small Cell Lung Cancer
+DO26512	Female	60	Non-Small Cell Lung Cancer
+DO26540	Male	47	Non-Small Cell Lung Cancer
+DO26553	Female	58	Non-Small Cell Lung Cancer
+DO26572	Female	77	Non-Small Cell Lung Cancer
+DO26596	Male	52	Non-Small Cell Lung Cancer
+DO26599	Female	54	Non-Small Cell Lung Cancer
+DO26653	Male	77	Non-Small Cell Lung Cancer
+DO26692	Male	56	Non-Small Cell Lung Cancer
+DO26710	Male	68	Non-Small Cell Lung Cancer
+DO26719	Male	70	Non-Small Cell Lung Cancer
+DO26769	Male	75	Non-Small Cell Lung Cancer
+DO26798	Male	66	Non-Small Cell Lung Cancer
+DO26806	Male	68	Non-Small Cell Lung Cancer
+DO26894	Male	65	Non-Small Cell Lung Cancer
+DO26934	Male	61	Non-Small Cell Lung Cancer
+DO26957	Male	58	Non-Small Cell Lung Cancer
+DO26971	Male	65	Non-Small Cell Lung Cancer
+DO26976	Male	83	Non-Small Cell Lung Cancer
+DO26987	Female	64	Non-Small Cell Lung Cancer
+DO26993	Male	66	Non-Small Cell Lung Cancer
+DO27025	Male	71	Non-Small Cell Lung Cancer
+DO27067	Male	68	Non-Small Cell Lung Cancer
+DO27081	Female	76	Non-Small Cell Lung Cancer
+DO27104	Male	74	Non-Small Cell Lung Cancer
+DO27120	Female	68	Non-Small Cell Lung Cancer
+DO27128	Male	68	Non-Small Cell Lung Cancer
+DO27208	Female	73	Non-Small Cell Lung Cancer
+DO27279	Male	73	Non-Small Cell Lung Cancer
+DO27318	Male	57	Non-Small Cell Lung Cancer
+DO27326	Male	66	Non-Small Cell Lung Cancer
+DO27334	Male	68	Non-Small Cell Lung Cancer
+DO27453	Female	83	Non-Small Cell Lung Cancer
+DO27484	Male	56	Non-Small Cell Lung Cancer
+DO27588	Male	74	Non-Small Cell Lung Cancer
+DO27636	Male	56	Non-Small Cell Lung Cancer
+DO27747	Male	54	Non-Small Cell Lung Cancer
+DO27978	Female	49	Ovarian Cancer
+DO28004	Female	55	Ovarian Cancer
+DO28024	Female	75	Ovarian Cancer
+DO28053	Female	76	Ovarian Cancer
+DO28089	Female	50	Ovarian Cancer
+DO28093	Female	81	Ovarian Cancer
+DO28119	Female	78	Ovarian Cancer
+DO28233	Female	44	Ovarian Cancer
+DO28273	Female	56	Ovarian Cancer
+DO28289	Female	58	Ovarian Cancer
+DO28412	Female	67	Ovarian Cancer
+DO28521	Female	68	Ovarian Cancer
+DO28763	Female	45	Ovarian Cancer
+DO28823	Female	71	Ovarian Cancer
+DO28952	Female	71	Ovarian Cancer
+DO28962	Female	57	Ovarian Cancer
+DO29146	Female	80	Ovarian Cancer
+DO29308	Female	69	Ovarian Cancer
+DO29398	Female	42	Ovarian Cancer
+DO29760	Female	74	Ovarian Cancer
+DO29850	Female	74	Ovarian Cancer
+DO29940	Female	67	Ovarian Cancer
+DO29980	Female	63	Ovarian Cancer
+DO30060	Female	73	Ovarian Cancer
+DO30090	Female	56	Ovarian Cancer
+DO30220	Female	45	Ovarian Cancer
+DO30340	Female	48	Ovarian Cancer
+DO30550	Female	62	Ovarian Cancer
+DO30750	Female	49	Ovarian Cancer
+DO30970	Female	50	Ovarian Cancer
+DO31150	Female	50	Ovarian Cancer
+DO31420	Female	57	Ovarian Cancer
+DO31551	Female	77	Ovarian Cancer
+DO31729	Female	52	Ovarian Cancer
+DO31769	Female	57	Ovarian Cancer
+DO31869	Female	65	Ovarian Cancer
+DO32237	Female	72	Ovarian Cancer
+DO32391	Female	57	Ovarian Cancer
+DO32420	Female	50	Ovarian Cancer
+DO32596	Female	62	Ovarian Cancer
+DO32646	Female	77	Ovarian Cancer
+DO46325	Female	54	Ovarian Cancer
+DO46327	Female	54	Ovarian Cancer
+DO46328	Female	52	Ovarian Cancer
+DO46329	Female	52	Ovarian Cancer
+DO46330	Female	60	Ovarian Cancer
+DO46331	Female	72	Ovarian Cancer
+DO46333	Female	58	Ovarian Cancer
+DO46334	Female	77	Ovarian Cancer
+DO46336	Female	70	Ovarian Cancer
+DO46338	Female	59	Ovarian Cancer
+DO46340	Female	62	Ovarian Cancer
+DO46342	Female	67	Ovarian Cancer
+DO46344	Female	46	Ovarian Cancer
+DO46346	Female	54	Ovarian Cancer
+DO46354	Female	73	Ovarian Cancer
+DO46356	Female	68	Ovarian Cancer
+DO46358	Female	60	Ovarian Cancer
+DO46360	Female	58	Ovarian Cancer
+DO46362	Female	61	Ovarian Cancer
+DO46364	Female	45	Ovarian Cancer
+DO46366	Female	65	Ovarian Cancer
+DO46368	Female	57	Ovarian Cancer
+DO46370	Female	54	Ovarian Cancer
+DO46372	Female	39	Ovarian Cancer
+DO46374	Female	69	Ovarian Cancer
+DO46376	Female	58	Ovarian Cancer
+DO46378	Female	59	Ovarian Cancer
+DO46380	Female	51	Ovarian Cancer
+DO46382	Female	62	Ovarian Cancer
+DO46384	Female	55	Ovarian Cancer
+DO46386	Female	49	Ovarian Cancer
+DO46388	Female	74	Ovarian Cancer
+DO46390	Female	65	Ovarian Cancer
+DO46392	Female	48	Ovarian Cancer
+DO46394	Female	61	Ovarian Cancer
+DO46398	Female	66	Ovarian Cancer
+DO46400	Female	70	Ovarian Cancer
+DO46402	Female	77	Ovarian Cancer
+DO46404	Female	55	Ovarian Cancer
+DO46408	Female	56	Ovarian Cancer
+DO46412	Female	64	Ovarian Cancer
+DO46448	Female	45	Ovarian Cancer
+DO46493	Female	62	Ovarian Cancer
+DO46551	Female	58	Ovarian Cancer
+DO46560	Female	45	Ovarian Cancer
+DO46561	Female	52	Ovarian Cancer
+DO46566	Female	78	Ovarian Cancer
+DO46568	Female	66	Ovarian Cancer
+DO46571	Female	61	Ovarian Cancer
+DO46576	Female	75	Ovarian Cancer
+DO46581	Female	66	Ovarian Cancer
+DO46586	Female	55	Ovarian Cancer
+DO46588	Female	74	Ovarian Cancer
+DO46591	Female	58	Ovarian Cancer
+DO46597	Female	60	Ovarian Cancer
+DO46602	Female	74	Ovarian Cancer
+DO46606	Female	73	Ovarian Cancer
+DO46611	Female	52	Ovarian Cancer
+DO221539	Male	49	Pancreatic Cancer
+DO221540	Male	56	Pancreatic Cancer
+DO221541	Male	75	Pancreatic Cancer
+DO221542	Male	60	Pancreatic Cancer
+DO221543	Male	54	Pancreatic Cancer
+DO221544	Male	42	Pancreatic Cancer
+DO221545	Male	63	Pancreatic Cancer
+DO221546	Male	61	Pancreatic Cancer
+DO221547	Male	47	Pancreatic Cancer
+DO32831	Female	49	Pancreatic Cancer
+DO32833	Female	74	Pancreatic Cancer
+DO32837	Male	34	Pancreatic Cancer
+DO32860	Male	57	Pancreatic Cancer
+DO32863	Male	60	Pancreatic Cancer
+DO32875	Male	69	Pancreatic Cancer
+DO32878	Female	69	Pancreatic Cancer
+DO32893	Female	61	Pancreatic Cancer
+DO32916	Male	78	Pancreatic Cancer
+DO32960	Female	65	Pancreatic Cancer
+DO32972	Male	66	Pancreatic Cancer
+DO32976	Female	73	Pancreatic Cancer
+DO32980	Female	72	Pancreatic Cancer
+DO32984	Male	61	Pancreatic Cancer
+DO33000	Male	68	Pancreatic Cancer
+DO33008	Female	56	Pancreatic Cancer
+DO33016	Male	54	Pancreatic Cancer
+DO33028	Male	58	Pancreatic Cancer
+DO33032	Male	64	Pancreatic Cancer
+DO33042	Male	76	Pancreatic Cancer
+DO33077	Female	76	Pancreatic Cancer
+DO33128	Male	72	Pancreatic Cancer
+DO33152	Male	88	Pancreatic Cancer
+DO33160	Female	78	Pancreatic Cancer
+DO33168	Female	80	Pancreatic Cancer
+DO33184	Male	70	Pancreatic Cancer
+DO33200	Female	90	Pancreatic Cancer
+DO33208	Male	59	Pancreatic Cancer
+DO33248	Female	70	Pancreatic Cancer
+DO33264	Male	80	Pancreatic Cancer
+DO33288	Male	71	Pancreatic Cancer
+DO33344	Male	70	Pancreatic Cancer
+DO33368	Male	81	Pancreatic Cancer
+DO33376	Female	62	Pancreatic Cancer
+DO33392	Male	70	Pancreatic Cancer
+DO33400	Female	76	Pancreatic Cancer
+DO33408	Female	68	Pancreatic Cancer
+DO33472	Female	75	Pancreatic Cancer
+DO33480	Male	52	Pancreatic Cancer
+DO33512	Female	NA	Pancreatic Cancer
+DO33544	Female	83	Pancreatic Cancer
+DO33960	Male	57	Pancreatic Cancer
+DO33984	Male	64	Pancreatic Cancer
+DO34264	Female	63	Pancreatic Cancer
+DO34288	Female	83	Pancreatic Cancer
+DO34312	Female	58	Pancreatic Cancer
+DO34336	Female	70	Pancreatic Cancer
+DO34432	Female	82	Pancreatic Cancer
+DO34448	Female	79	Pancreatic Cancer
+DO34504	Male	37	Pancreatic Cancer
+DO34600	Male	77	Pancreatic Cancer
+DO34608	Female	72	Pancreatic Cancer
+DO34640	Female	49	Pancreatic Cancer
+DO34656	Female	61	Pancreatic Cancer
+DO34680	Male	75	Pancreatic Cancer
+DO34696	Male	75	Pancreatic Cancer
+DO34720	Male	68	Pancreatic Cancer
+DO34728	Female	77	Pancreatic Cancer
+DO34736	Female	78	Pancreatic Cancer
+DO34785	Female	67	Pancreatic Cancer
+DO34793	Male	56	Pancreatic Cancer
+DO34817	Female	72	Pancreatic Cancer
+DO34849	Female	86	Pancreatic Cancer
+DO34905	Male	64	Pancreatic Cancer
+DO35082	Male	68	Pancreatic Cancer
+DO35085	Male	59	Pancreatic Cancer
+DO35098	Male	63	Pancreatic Cancer
+DO35114	Female	65	Pancreatic Cancer
+DO35116	Female	76	Pancreatic Cancer
+DO35118	Female	79	Pancreatic Cancer
+DO35126	Female	55	Pancreatic Cancer
+DO35128	Female	83	Pancreatic Cancer
+DO35132	Male	69	Pancreatic Cancer
+DO35136	Female	61	Pancreatic Cancer
+DO35138	Female	69	Pancreatic Cancer
+DO35144	Male	69	Pancreatic Cancer
+DO35148	Female	77	Pancreatic Cancer
+DO35152	Male	55	Pancreatic Cancer
+DO35184	Male	75	Pancreatic Cancer
+DO35186	Female	76	Pancreatic Cancer
+DO35198	Female	70	Pancreatic Cancer
+DO35200	Female	62	Pancreatic Cancer
+DO35216	Female	63	Pancreatic Cancer
+DO35222	Male	53	Pancreatic Cancer
+DO35228	Male	68	Pancreatic Cancer
+DO35230	Female	52	Pancreatic Cancer
+DO35236	Female	58	Pancreatic Cancer
+DO35258	Male	82	Pancreatic Cancer
+DO35290	Male	65	Pancreatic Cancer
+DO35305	Male	70	Pancreatic Cancer
+DO35330	Male	63	Pancreatic Cancer
+DO35350	Male	76	Pancreatic Cancer
+DO35360	Male	65	Pancreatic Cancer
+DO35376	Female	42	Pancreatic Cancer
+DO35406	Male	54	Pancreatic Cancer
+DO35424	Male	74	Pancreatic Cancer
+DO35454	Female	74	Pancreatic Cancer
+DO35496	Female	63	Pancreatic Cancer
+DO46744	Male	69	Pancreatic Cancer
+DO46745	Male	48	Pancreatic Cancer
+DO46747	Male	74	Pancreatic Cancer
+DO46749	Male	78	Pancreatic Cancer
+DO46751	Male	76	Pancreatic Cancer
+DO46753	Female	59	Pancreatic Cancer
+DO46755	Male	59	Pancreatic Cancer
+DO46757	Male	66	Pancreatic Cancer
+DO46759	Male	61	Pancreatic Cancer
+DO46761	Female	67	Pancreatic Cancer
+DO46763	Male	79	Pancreatic Cancer
+DO46767	Female	65	Pancreatic Cancer
+DO46769	Female	69	Pancreatic Cancer
+DO46771	Female	45	Pancreatic Cancer
+DO46773	Female	44	Pancreatic Cancer
+DO46777	Male	81	Pancreatic Cancer
+DO46779	Male	77	Pancreatic Cancer
+DO46781	Male	56	Pancreatic Cancer
+DO46783	Male	78	Pancreatic Cancer
+DO46785	Male	59	Pancreatic Cancer
+DO48520	Female	59	Pancreatic Cancer
+DO48539	Male	38	Pancreatic Cancer
+DO48541	Male	68	Pancreatic Cancer
+DO48545	Male	56	Pancreatic Cancer
+DO48553	Male	64	Pancreatic Cancer
+DO48554	Male	38	Pancreatic Cancer
+DO48557	Male	52	Pancreatic Cancer
+DO48573	Male	71	Pancreatic Cancer
+DO48578	Female	59	Pancreatic Cancer
+DO48581	Male	64	Pancreatic Cancer
+DO49074	Male	49	Pancreatic Cancer
+DO49076	Male	64	Pancreatic Cancer
+DO49078	Male	79	Pancreatic Cancer
+DO49079	Male	50	Pancreatic Cancer
+DO49080	Male	60	Pancreatic Cancer
+DO49087	Female	68	Pancreatic Cancer
+DO49090	Female	77	Pancreatic Cancer
+DO49113	Female	46	Pancreatic Cancer
+DO49127	Female	77	Pancreatic Cancer
+DO49129	Male	50	Pancreatic Cancer
+DO49135	Male	65	Pancreatic Cancer
+DO49138	Male	74	Pancreatic Cancer
+DO49166	Female	40	Pancreatic Cancer
+DO49168	Male	58	Pancreatic Cancer
+DO49178	Male	58	Pancreatic Cancer
+DO49181	Male	77	Pancreatic Cancer
+DO49183	Female	51	Pancreatic Cancer
+DO49184	Male	56	Pancreatic Cancer
+DO49193	Male	60	Pancreatic Cancer
+DO49204	Male	67	Pancreatic Cancer
+DO49418	Male	58	Pancreatic Cancer
+DO49419	Male	50	Pancreatic Cancer
+DO49420	Male	64	Pancreatic Cancer
+DO49421	Female	74	Pancreatic Cancer
+DO49422	Male	74	Pancreatic Cancer
+DO49424	Male	84	Pancreatic Cancer
+DO49427	Female	69	Pancreatic Cancer
+DO49430	Male	81	Pancreatic Cancer
+DO49433	Male	48	Pancreatic Cancer
+DO49436	Female	69	Pancreatic Cancer
+DO49439	Female	79	Pancreatic Cancer
+DO49442	Male	57	Pancreatic Cancer
+DO49445	Female	60	Pancreatic Cancer
+DO49448	Male	68	Pancreatic Cancer
+DO49451	Male	66	Pancreatic Cancer
+DO49454	Female	74	Pancreatic Cancer
+DO49457	Female	53	Pancreatic Cancer
+DO49460	Female	64	Pancreatic Cancer
+DO49463	Female	78	Pancreatic Cancer
+DO49466	Male	79	Pancreatic Cancer
+DO49478	Male	81	Pancreatic Cancer
+DO49481	Male	64	Pancreatic Cancer
+DO49484	Male	67	Pancreatic Cancer
+DO51169	Male	35	Pancreatic Cancer
+DO51170	Male	41	Pancreatic Cancer
+DO51171	Female	74	Pancreatic Cancer
+DO51172	Male	62	Pancreatic Cancer
+DO51173	Female	39	Pancreatic Cancer
+DO51174	Male	63	Pancreatic Cancer
+DO51175	Female	71	Pancreatic Cancer
+DO51176	Female	64	Pancreatic Cancer
+DO51177	Male	36	Pancreatic Cancer
+DO51178	Male	53	Pancreatic Cancer
+DO51179	Male	64	Pancreatic Cancer
+DO51180	Male	56	Pancreatic Cancer
+DO51181	Female	26	Pancreatic Cancer
+DO51182	Male	50	Pancreatic Cancer
+DO51184	Female	34	Pancreatic Cancer
+DO51185	Male	17	Pancreatic Cancer
+DO51187	Female	69	Pancreatic Cancer
+DO51466	Male	69	Pancreatic Cancer
+DO51467	Male	67	Pancreatic Cancer
+DO51468	Male	69	Pancreatic Cancer
+DO51469	Female	80	Pancreatic Cancer
+DO51470	Female	51	Pancreatic Cancer
+DO51472	Female	65	Pancreatic Cancer
+DO51473	Female	76	Pancreatic Cancer
+DO51474	Male	63	Pancreatic Cancer
+DO51476	Female	45	Pancreatic Cancer
+DO51477	Male	56	Pancreatic Cancer
+DO51478	Male	69	Pancreatic Cancer
+DO51479	Male	70	Pancreatic Cancer
+DO51480	Female	41	Pancreatic Cancer
+DO51481	Female	59	Pancreatic Cancer
+DO51483	Female	67	Pancreatic Cancer
+DO51484	Female	63	Pancreatic Cancer
+DO51485	Female	74	Pancreatic Cancer
+DO51486	Female	56	Pancreatic Cancer
+DO51487	Female	69	Pancreatic Cancer
+DO51488	Female	55	Pancreatic Cancer
+DO51489	Female	60	Pancreatic Cancer
+DO51490	Female	78	Pancreatic Cancer
+DO51491	Male	83	Pancreatic Cancer
+DO51492	Female	57	Pancreatic Cancer
+DO51493	Female	52	Pancreatic Cancer
+DO51494	Male	59	Pancreatic Cancer
+DO51495	Male	66	Pancreatic Cancer
+DO51496	Female	70	Pancreatic Cancer
+DO51497	Female	70	Pancreatic Cancer
+DO51498	Female	40	Pancreatic Cancer
+DO51499	Male	64	Pancreatic Cancer
+DO51500	Female	69	Pancreatic Cancer
+DO51501	Male	53	Pancreatic Cancer
+DO51502	Male	47	Pancreatic Cancer
+DO51503	Female	46	Pancreatic Cancer
+DO51504	Female	67	Pancreatic Cancer
+DO51505	Female	64	Pancreatic Cancer
+DO51507	Male	73	Pancreatic Cancer
+DO51508	Female	83	Pancreatic Cancer
+DO51509	Male	66	Pancreatic Cancer
+DO51510	Male	43	Pancreatic Cancer
+DO51511	Female	67	Pancreatic Cancer
+DO51512	Male	42	Pancreatic Cancer
+DO51513	Female	85	Pancreatic Cancer
+DO51514	Male	61	Pancreatic Cancer
+DO51515	Male	73	Pancreatic Cancer
+DO51518	Female	66	Pancreatic Cancer
+DO51519	Female	70	Pancreatic Cancer
+DO51520	Male	73	Pancreatic Cancer
+DO51521	Female	78	Pancreatic Cancer
+DO51522	Female	50	Pancreatic Cancer
+DO51523	Male	48	Pancreatic Cancer
+DO51524	Male	79	Pancreatic Cancer
+DO51525	Male	38	Pancreatic Cancer
+DO51527	Female	86	Pancreatic Cancer
+DO51528	Male	62	Pancreatic Cancer
+DO51529	Male	87	Pancreatic Cancer
+DO51530	Female	43	Pancreatic Cancer
+DO51531	Male	48	Pancreatic Cancer
+DO51532	Female	59	Pancreatic Cancer
+DO51533	Male	67	Pancreatic Cancer
+DO51534	Female	79	Pancreatic Cancer
+DO51535	Male	84	Pancreatic Cancer
+DO51536	Female	82	Pancreatic Cancer
+DO51537	Male	73	Pancreatic Cancer
+DO51538	Female	76	Pancreatic Cancer
+DO51540	Female	69	Pancreatic Cancer
+DO51541	Male	81	Pancreatic Cancer
+DO51542	Female	54	Pancreatic Cancer
+DO51543	Female	76	Pancreatic Cancer
+DO51544	Male	69	Pancreatic Cancer
+DO51546	Female	73	Pancreatic Cancer
+DO51548	Female	55	Pancreatic Cancer
+DO51549	Female	76	Pancreatic Cancer
+DO52122	Female	43	Pancreatic Cancer
+DO52123	Male	56	Pancreatic Cancer
+DO52124	Male	58	Pancreatic Cancer
+DO52125	Male	79	Pancreatic Cancer
+DO52126	Male	50	Pancreatic Cancer
+DO52127	Female	41	Pancreatic Cancer
+DO52128	Male	42	Pancreatic Cancer
+DO52129	Female	46	Pancreatic Cancer
+DO52131	Male	38	Pancreatic Cancer
+DO52132	Female	71	Pancreatic Cancer
+DO52134	Male	71	Pancreatic Cancer
+DO52135	Female	47	Pancreatic Cancer
+DO52136	Female	70	Pancreatic Cancer
+DO52137	Female	30	Pancreatic Cancer
+DO52139	Female	61	Pancreatic Cancer
+DO52141	Female	46	Pancreatic Cancer
+DO52142	Female	62	Pancreatic Cancer
+DO52143	Male	59	Pancreatic Cancer
+DO52146	Male	75	Pancreatic Cancer
+DO52147	Male	48	Pancreatic Cancer
+DO52148	Male	64	Pancreatic Cancer
+DO52149	Female	66	Pancreatic Cancer
+DO52150	Male	40	Pancreatic Cancer
+DO52151	Male	56	Pancreatic Cancer
+DO52152	Female	44	Pancreatic Cancer
+DO52153	Male	57	Pancreatic Cancer
+DO52154	Male	71	Pancreatic Cancer
+DO52155	Male	60	Pancreatic Cancer
+DO52156	Male	53	Pancreatic Cancer
+DO52158	Male	55	Pancreatic Cancer
+DO52159	Male	50	Pancreatic Cancer
+DO52161	Male	69	Pancreatic Cancer
+DO52162	Female	20	Pancreatic Cancer
+DO52164	Male	66	Pancreatic Cancer
+DO10806	Male	45	Prostate Cancer
+DO10809	Male	46	Prostate Cancer
+DO10811	Male	51	Prostate Cancer
+DO10813	Male	50	Prostate Cancer
+DO10815	Male	38	Prostate Cancer
+DO10817	Male	49	Prostate Cancer
+DO10819	Male	44	Prostate Cancer
+DO10821	Male	48	Prostate Cancer
+DO10823	Male	46	Prostate Cancer
+DO10825	Male	48	Prostate Cancer
+DO10829	Male	49	Prostate Cancer
+DO10831	Male	45	Prostate Cancer
+DO10833	Male	49	Prostate Cancer
+DO10835	Male	43	Prostate Cancer
+DO10837	Male	48	Prostate Cancer
+DO221503	Male	54	Prostate Cancer
+DO36221	Male	59	Prostate Cancer
+DO36223	Male	63	Prostate Cancer
+DO36226	Male	63	Prostate Cancer
+DO36239	Male	66	Prostate Cancer
+DO36248	Male	72	Prostate Cancer
+DO36253	Male	69	Prostate Cancer
+DO36254	Male	63	Prostate Cancer
+DO36262	Male	59	Prostate Cancer
+DO36265	Male	61	Prostate Cancer
+DO36273	Male	49	Prostate Cancer
+DO36283	Male	46	Prostate Cancer
+DO36285	Male	55	Prostate Cancer
+DO36335	Male	67	Prostate Cancer
+DO36345	Male	71	Prostate Cancer
+DO36356	Male	55	Prostate Cancer
+DO36359	Male	50	Prostate Cancer
+DO36360	Male	67	Prostate Cancer
+DO36361	Male	52	Prostate Cancer
+DO36372	Male	57	Prostate Cancer
+DO46787	Male	69	Prostate Cancer
+DO46788	Male	72	Prostate Cancer
+DO46790	Male	71	Prostate Cancer
+DO46792	Male	66	Prostate Cancer
+DO46793	Male	58	Prostate Cancer
+DO46795	Male	65	Prostate Cancer
+DO46796	Male	51	Prostate Cancer
+DO46813	Male	73	Prostate Cancer
+DO48577	Male	71	Prostate Cancer
+DO49815	Male	56	Prostate Cancer
+DO50414	Male	44	Prostate Cancer
+DO50415	Male	61	Prostate Cancer
+DO50416	Male	59	Prostate Cancer
+DO50417	Male	49	Prostate Cancer
+DO50418	Male	66	Prostate Cancer
+DO50419	Male	66	Prostate Cancer
+DO50420	Male	60	Prostate Cancer
+DO50421	Male	66	Prostate Cancer
+DO50422	Male	61	Prostate Cancer
+DO50423	Male	64	Prostate Cancer
+DO50424	Male	57	Prostate Cancer
+DO50428	Male	72	Prostate Cancer
+DO50430	Male	54	Prostate Cancer
+DO50431	Male	65	Prostate Cancer
+DO50432	Male	71	Prostate Cancer
+DO51044	Male	71	Prostate Cancer
+DO51045	Male	79	Prostate Cancer
+DO51046	Male	72	Prostate Cancer
+DO51047	Male	74	Prostate Cancer
+DO51048	Male	70	Prostate Cancer
+DO51049	Male	68	Prostate Cancer
+DO51050	Male	71	Prostate Cancer
+DO51051	Male	61	Prostate Cancer
+DO51052	Male	75	Prostate Cancer
+DO51053	Male	61	Prostate Cancer
+DO51054	Male	73	Prostate Cancer
+DO51055	Male	78	Prostate Cancer
+DO51056	Male	68	Prostate Cancer
+DO51057	Male	80	Prostate Cancer
+DO51060	Male	63	Prostate Cancer
+DO51061	Male	71	Prostate Cancer
+DO51062	Male	72	Prostate Cancer
+DO51063	Male	54	Prostate Cancer
+DO51064	Male	70	Prostate Cancer
+DO51065	Male	55	Prostate Cancer
+DO51066	Male	70	Prostate Cancer
+DO51067	Male	74	Prostate Cancer
+DO51068	Male	56	Prostate Cancer
+DO51069	Male	59	Prostate Cancer
+DO51070	Male	57	Prostate Cancer
+DO51072	Male	60	Prostate Cancer
+DO51073	Male	52	Prostate Cancer
+DO51074	Male	74	Prostate Cancer
+DO51075	Male	63	Prostate Cancer
+DO51078	Male	66	Prostate Cancer
+DO51079	Male	60	Prostate Cancer
+DO51080	Male	51	Prostate Cancer
+DO51081	Male	75	Prostate Cancer
+DO51083	Male	67	Prostate Cancer
+DO51084	Male	61	Prostate Cancer
+DO51085	Male	71	Prostate Cancer
+DO51086	Male	70	Prostate Cancer
+DO51087	Male	70	Prostate Cancer
+DO51088	Male	59	Prostate Cancer
+DO51089	Male	55	Prostate Cancer
+DO51090	Male	66	Prostate Cancer
+DO51091	Male	56	Prostate Cancer
+DO51092	Male	60	Prostate Cancer
+DO51093	Male	54	Prostate Cancer
+DO51094	Male	66	Prostate Cancer
+DO51095	Male	61	Prostate Cancer
+DO51096	Male	52	Prostate Cancer
+DO51097	Male	71	Prostate Cancer
+DO51098	Male	63	Prostate Cancer
+DO51099	Male	49	Prostate Cancer
+DO51100	Male	55	Prostate Cancer
+DO51102	Male	62	Prostate Cancer
+DO51103	Male	66	Prostate Cancer
+DO51104	Male	63	Prostate Cancer
+DO51105	Male	66	Prostate Cancer
+DO51106	Male	44	Prostate Cancer
+DO51107	Male	59	Prostate Cancer
+DO51108	Male	68	Prostate Cancer
+DO51109	Male	64	Prostate Cancer
+DO51110	Male	69	Prostate Cancer
+DO51111	Male	53	Prostate Cancer
+DO51112	Male	60	Prostate Cancer
+DO51113	Male	57	Prostate Cancer
+DO51114	Male	61	Prostate Cancer
+DO51115	Male	56	Prostate Cancer
+DO51116	Male	52	Prostate Cancer
+DO51117	Male	60	Prostate Cancer
+DO51118	Male	60	Prostate Cancer
+DO51120	Male	57	Prostate Cancer
+DO51121	Male	52	Prostate Cancer
+DO51122	Male	55	Prostate Cancer
+DO51123	Male	65	Prostate Cancer
+DO51124	Male	60	Prostate Cancer
+DO51126	Male	51	Prostate Cancer
+DO51127	Male	58	Prostate Cancer
+DO51128	Male	66	Prostate Cancer
+DO51129	Male	65	Prostate Cancer
+DO51131	Male	57	Prostate Cancer
+DO51132	Male	56	Prostate Cancer
+DO51133	Male	62	Prostate Cancer
+DO51134	Male	71	Prostate Cancer
+DO51135	Male	60	Prostate Cancer
+DO51136	Male	63	Prostate Cancer
+DO51137	Male	63	Prostate Cancer
+DO51138	Male	60	Prostate Cancer
+DO51139	Male	59	Prostate Cancer
+DO51140	Male	59	Prostate Cancer
+DO51141	Male	63	Prostate Cancer
+DO51142	Male	69	Prostate Cancer
+DO51143	Male	69	Prostate Cancer
+DO51144	Male	67	Prostate Cancer
+DO51145	Male	58	Prostate Cancer
+DO51147	Male	66	Prostate Cancer
+DO51148	Male	54	Prostate Cancer
+DO51150	Male	61	Prostate Cancer
+DO51152	Male	55	Prostate Cancer
+DO51153	Male	57	Prostate Cancer
+DO51154	Male	58	Prostate Cancer
+DO51155	Male	61	Prostate Cancer
+DO51156	Male	45	Prostate Cancer
+DO51157	Male	58	Prostate Cancer
+DO51158	Male	58	Prostate Cancer
+DO51159	Male	43	Prostate Cancer
+DO51953	Male	67	Prostate Cancer
+DO51954	Male	49	Prostate Cancer
+DO51955	Male	65	Prostate Cancer
+DO51956	Male	62	Prostate Cancer
+DO51958	Male	66	Prostate Cancer
+DO52498	Male	48	Prostate Cancer
+DO52499	Male	46	Prostate Cancer
+DO52500	Male	50	Prostate Cancer
+DO52501	Male	47	Prostate Cancer
+DO52502	Male	49	Prostate Cancer
+DO52503	Male	40	Prostate Cancer
+DO52504	Male	48	Prostate Cancer
+DO52505	Male	48	Prostate Cancer
+DO52506	Male	48	Prostate Cancer
+DO52508	Male	43	Prostate Cancer
+DO52509	Male	46	Prostate Cancer
+DO52510	Male	49	Prostate Cancer
+DO52511	Male	50	Prostate Cancer
+DO52512	Male	50	Prostate Cancer
+DO52513	Male	47	Prostate Cancer
+DO52514	Male	50	Prostate Cancer
+DO52516	Male	48	Prostate Cancer
+DO52518	Male	50	Prostate Cancer
+DO52520	Male	48	Prostate Cancer
+DO52522	Male	41	Prostate Cancer
+DO52524	Male	40	Prostate Cancer
+DO52526	Male	48	Prostate Cancer
+DO52528	Male	50	Prostate Cancer
+DO52530	Male	47	Prostate Cancer
+DO52532	Male	50	Prostate Cancer
+DO52534	Male	47	Prostate Cancer
+DO16110	Female	77	Renal Cell Carcinoma
+DO16113	Male	52	Renal Cell Carcinoma
+DO16136	Male	62	Renal Cell Carcinoma
+DO16233	Male	42	Renal Cell Carcinoma
+DO16248	Male	73	Renal Cell Carcinoma
+DO16269	Male	40	Renal Cell Carcinoma
+DO16769	Male	62	Renal Cell Carcinoma
+DO16881	Female	54	Renal Cell Carcinoma
+DO16999	Female	75	Renal Cell Carcinoma
+DO17054	Female	61	Renal Cell Carcinoma
+DO17074	Male	42	Renal Cell Carcinoma
+DO17085	Male	63	Renal Cell Carcinoma
+DO17178	Male	84	Renal Cell Carcinoma
+DO17323	Male	49	Renal Cell Carcinoma
+DO17373	Female	44	Renal Cell Carcinoma
+DO17722	Female	47	Renal Cell Carcinoma
+DO17751	Male	63	Renal Cell Carcinoma
+DO17791	Female	49	Renal Cell Carcinoma
+DO17848	Male	57	Renal Cell Carcinoma
+DO17977	Male	64	Renal Cell Carcinoma
+DO18016	Male	67	Renal Cell Carcinoma
+DO18056	Male	60	Renal Cell Carcinoma
+DO18164	Female	62	Renal Cell Carcinoma
+DO18392	Male	78	Renal Cell Carcinoma
+DO18572	Female	71	Renal Cell Carcinoma
+DO18651	Female	67	Renal Cell Carcinoma
+DO18671	Male	75	Renal Cell Carcinoma
+DO18701	Male	60	Renal Cell Carcinoma
+DO18839	Male	61	Renal Cell Carcinoma
+DO18988	Male	83	Renal Cell Carcinoma
+DO19028	Male	50	Renal Cell Carcinoma
+DO19048	Male	64	Renal Cell Carcinoma
+DO19380	Female	58	Renal Cell Carcinoma
+DO19733	Male	51	Renal Cell Carcinoma
+DO20082	Male	61	Renal Cell Carcinoma
+DO20416	Female	53	Renal Cell Carcinoma
+DO20604	Female	71	Renal Cell Carcinoma
+DO20768	Male	53	Renal Cell Carcinoma
+DO20770	Female	48	Renal Cell Carcinoma
+DO20780	Male	64	Renal Cell Carcinoma
+DO20839	Male	74	Renal Cell Carcinoma
+DO20849	Female	75	Renal Cell Carcinoma
+DO20863	Male	41	Renal Cell Carcinoma
+DO20867	Male	52	Renal Cell Carcinoma
+DO20905	Male	55	Renal Cell Carcinoma
+DO20915	Male	49	Renal Cell Carcinoma
+DO20923	Male	57	Renal Cell Carcinoma
+DO20928	Male	41	Renal Cell Carcinoma
+DO220331	Female	57	Renal Cell Carcinoma
+DO220333	Female	56	Renal Cell Carcinoma
+DO220334	Male	69	Renal Cell Carcinoma
+DO220335	Female	46	Renal Cell Carcinoma
+DO220336	Male	60	Renal Cell Carcinoma
+DO220338	Female	44	Renal Cell Carcinoma
+DO220339	Female	48	Renal Cell Carcinoma
+DO220340	Male	55	Renal Cell Carcinoma
+DO220341	Male	69	Renal Cell Carcinoma
+DO220342	Female	37	Renal Cell Carcinoma
+DO220348	Male	34	Renal Cell Carcinoma
+DO220349	Male	41	Renal Cell Carcinoma
+DO220350	Female	45	Renal Cell Carcinoma
+DO220351	Male	72	Renal Cell Carcinoma
+DO220352	Male	51	Renal Cell Carcinoma
+DO220354	Male	62	Renal Cell Carcinoma
+DO220355	Female	45	Renal Cell Carcinoma
+DO220356	Male	30	Renal Cell Carcinoma
+DO220357	Male	37	Renal Cell Carcinoma
+DO220358	Female	61	Renal Cell Carcinoma
+DO220359	Male	38	Renal Cell Carcinoma
+DO220360	Male	57	Renal Cell Carcinoma
+DO220361	Male	47	Renal Cell Carcinoma
+DO220362	Male	56	Renal Cell Carcinoma
+DO220363	Male	67	Renal Cell Carcinoma
+DO220423	Female	41	Renal Cell Carcinoma
+DO220433	Male	43	Renal Cell Carcinoma
+DO220439	Female	47	Renal Cell Carcinoma
+DO220449	Female	28	Renal Cell Carcinoma
+DO220468	Female	42	Renal Cell Carcinoma
+DO220474	Male	53	Renal Cell Carcinoma
+DO220478	Male	50	Renal Cell Carcinoma
+DO220479	Male	54	Renal Cell Carcinoma
+DO220490	Female	38	Renal Cell Carcinoma
+DO220509	Female	35	Renal Cell Carcinoma
+DO220510	Female	86	Renal Cell Carcinoma
+DO220519	Female	65	Renal Cell Carcinoma
+DO220525	Male	59	Renal Cell Carcinoma
+DO220535	Female	42	Renal Cell Carcinoma
+DO220549	Male	29	Renal Cell Carcinoma
+DO220554	Female	17	Renal Cell Carcinoma
+DO220556	Male	42	Renal Cell Carcinoma
+DO220577	Male	58	Renal Cell Carcinoma
+DO44462	Female	60	Renal Cell Carcinoma
+DO44465	Female	71	Renal Cell Carcinoma
+DO44469	Male	84	Renal Cell Carcinoma
+DO44478	Female	49	Renal Cell Carcinoma
+DO44485	Male	62	Renal Cell Carcinoma
+DO44496	Male	70	Renal Cell Carcinoma
+DO44515	Male	58	Renal Cell Carcinoma
+DO44517	Male	59	Renal Cell Carcinoma
+DO44520	Male	61	Renal Cell Carcinoma
+DO44525	Male	79	Renal Cell Carcinoma
+DO44528	Male	51	Renal Cell Carcinoma
+DO46826	Male	39	Renal Cell Carcinoma
+DO46827	Male	67	Renal Cell Carcinoma
+DO46830	Female	77	Renal Cell Carcinoma
+DO46832	Male	55	Renal Cell Carcinoma
+DO46834	Female	52	Renal Cell Carcinoma
+DO46836	Male	79	Renal Cell Carcinoma
+DO46838	Male	61	Renal Cell Carcinoma
+DO46844	Female	65	Renal Cell Carcinoma
+DO46847	Female	57	Renal Cell Carcinoma
+DO46850	Male	65	Renal Cell Carcinoma
+DO46853	Female	62	Renal Cell Carcinoma
+DO46856	Male	73	Renal Cell Carcinoma
+DO46859	Female	59	Renal Cell Carcinoma
+DO46869	Female	61	Renal Cell Carcinoma
+DO46873	Male	69	Renal Cell Carcinoma
+DO46877	Male	61	Renal Cell Carcinoma
+DO46881	Female	77	Renal Cell Carcinoma
+DO46885	Male	45	Renal Cell Carcinoma
+DO46889	Male	60	Renal Cell Carcinoma
+DO46893	Female	62	Renal Cell Carcinoma
+DO46897	Female	48	Renal Cell Carcinoma
+DO46901	Female	68	Renal Cell Carcinoma
+DO46905	Male	56	Renal Cell Carcinoma
+DO46909	Male	78	Renal Cell Carcinoma
+DO46913	Female	54	Renal Cell Carcinoma
+DO46917	Male	58	Renal Cell Carcinoma
+DO46921	Female	65	Renal Cell Carcinoma
+DO46925	Female	66	Renal Cell Carcinoma
+DO46929	Male	49	Renal Cell Carcinoma
+DO46933	Male	73	Renal Cell Carcinoma
+DO46937	Male	57	Renal Cell Carcinoma
+DO46945	Female	60	Renal Cell Carcinoma
+DO46953	Male	50	Renal Cell Carcinoma
+DO46957	Female	75	Renal Cell Carcinoma
+DO46961	Male	59	Renal Cell Carcinoma
+DO46973	Male	78	Renal Cell Carcinoma
+DO46977	Male	40	Renal Cell Carcinoma
+DO46980	Female	56	Renal Cell Carcinoma
+DO46984	Male	65	Renal Cell Carcinoma
+DO46988	Female	65	Renal Cell Carcinoma
+DO46992	Female	76	Renal Cell Carcinoma
+DO47000	Female	43	Renal Cell Carcinoma
+DO47004	Male	46	Renal Cell Carcinoma
+DO47016	Male	51	Renal Cell Carcinoma
+DO47048	Female	59	Renal Cell Carcinoma
+DO47052	Female	66	Renal Cell Carcinoma
+DO47056	Male	54	Renal Cell Carcinoma
+DO47060	Male	68	Renal Cell Carcinoma
+DO47064	Female	49	Renal Cell Carcinoma
+DO47068	Male	48	Renal Cell Carcinoma
+DO47072	Male	64	Renal Cell Carcinoma
+DO47076	Female	38	Renal Cell Carcinoma
+DO47080	Female	50	Renal Cell Carcinoma
+DO47088	Male	70	Renal Cell Carcinoma
+DO47092	Male	67	Renal Cell Carcinoma
+DO47096	Female	55	Renal Cell Carcinoma
+DO47100	Male	67	Renal Cell Carcinoma
+DO47104	Male	50	Renal Cell Carcinoma
+DO47108	Female	65	Renal Cell Carcinoma
+DO47116	Male	56	Renal Cell Carcinoma
+DO47124	Male	57	Renal Cell Carcinoma
+DO47128	Male	66	Renal Cell Carcinoma
+DO47132	Female	61	Renal Cell Carcinoma
+DO47150	Female	59	Renal Cell Carcinoma
+DO47153	Male	54	Renal Cell Carcinoma
+DO47156	Female	60	Renal Cell Carcinoma
+DO47159	Female	83	Renal Cell Carcinoma
+DO47162	Male	52	Renal Cell Carcinoma
+DO47165	Female	51	Renal Cell Carcinoma
+DO47171	Male	65	Renal Cell Carcinoma
+DO47174	Male	70	Renal Cell Carcinoma
+DO47234	Male	47	Renal Cell Carcinoma
+DO47243	Male	57	Renal Cell Carcinoma
+DO47249	Female	75	Renal Cell Carcinoma
+DO48474	Male	62	Renal Cell Carcinoma
+DO48482	Male	65	Renal Cell Carcinoma
+DO48495	Male	57	Renal Cell Carcinoma
+DO48509	Male	66	Renal Cell Carcinoma
+DO48516	Male	50	Renal Cell Carcinoma
+DO49728	Female	54	Renal Cell Carcinoma
+DO49736	Male	79	Renal Cell Carcinoma
+DO49738	Male	62	Renal Cell Carcinoma
+DO49768	Male	58	Renal Cell Carcinoma
+DO51551	Female	54	Renal Cell Carcinoma
+DO219944	Male	NA	Soft Tissue Sarcoma
+DO219945	Male	NA	Soft Tissue Sarcoma
+DO219949	Male	NA	Soft Tissue Sarcoma
+DO219951	Male	NA	Soft Tissue Sarcoma
+DO219952	Female	NA	Soft Tissue Sarcoma
+DO219954	Female	NA	Soft Tissue Sarcoma
+DO219960	Male	NA	Soft Tissue Sarcoma
+DO219961	Male	NA	Soft Tissue Sarcoma
+DO219962	Male	NA	Soft Tissue Sarcoma
+DO219964	Male	NA	Soft Tissue Sarcoma
+DO219965	Female	NA	Soft Tissue Sarcoma
+DO219966	Male	NA	Soft Tissue Sarcoma
+DO219967	Male	NA	Soft Tissue Sarcoma
+DO219968	Male	NA	Soft Tissue Sarcoma
+DO219969	Male	NA	Soft Tissue Sarcoma
+DO219970	Male	NA	Soft Tissue Sarcoma
+DO219972	Male	NA	Soft Tissue Sarcoma
+DO219973	Female	NA	Soft Tissue Sarcoma
+DO219974	Male	NA	Soft Tissue Sarcoma
+DO219975	Male	NA	Soft Tissue Sarcoma
+DO220116	Female	NA	Soft Tissue Sarcoma
+DO220118	Male	NA	Soft Tissue Sarcoma
+DO220122	Female	NA	Soft Tissue Sarcoma
+DO220126	Female	NA	Soft Tissue Sarcoma
+DO220138	Female	NA	Soft Tissue Sarcoma
+DO220140	Female	NA	Soft Tissue Sarcoma
+DO220153	Female	NA	Soft Tissue Sarcoma
+DO220157	Male	NA	Soft Tissue Sarcoma
+DO220163	Male	NA	Soft Tissue Sarcoma
+DO220168	Female	NA	Soft Tissue Sarcoma
+DO220172	Female	NA	Soft Tissue Sarcoma
+DO220174	Female	NA	Soft Tissue Sarcoma
+DO220176	Female	NA	Soft Tissue Sarcoma
+DO220221	Female	NA	Soft Tissue Sarcoma
+DO219585	Male	85	Thyroid Cancer
+DO38899	Male	75	Thyroid Cancer
+DO38901	Female	47	Thyroid Cancer
+DO38903	Male	40	Thyroid Cancer
+DO38911	Male	75	Thyroid Cancer
+DO38946	Female	60	Thyroid Cancer
+DO38966	Female	44	Thyroid Cancer
+DO38978	Female	44	Thyroid Cancer
+DO39016	Female	66	Thyroid Cancer
+DO39020	Female	61	Thyroid Cancer
+DO39022	Female	47	Thyroid Cancer
+DO39046	Female	26	Thyroid Cancer
+DO39062	Female	34	Thyroid Cancer
+DO39070	Female	80	Thyroid Cancer
+DO39072	Female	51	Thyroid Cancer
+DO39084	Female	18	Thyroid Cancer
+DO39127	Female	43	Thyroid Cancer
+DO39210	Female	61	Thyroid Cancer
+DO39216	Female	37	Thyroid Cancer
+DO39306	Male	57	Thyroid Cancer
+DO39363	Male	66	Thyroid Cancer
+DO39481	Female	75	Thyroid Cancer
+DO39534	Female	19	Thyroid Cancer
+DO39564	Female	51	Thyroid Cancer
+DO39610	Male	81	Thyroid Cancer
+DO39635	Female	69	Thyroid Cancer
+DO39684	Female	64	Thyroid Cancer
+DO39798	Female	31	Thyroid Cancer
+DO39841	Male	50	Thyroid Cancer
+DO39847	Female	61	Thyroid Cancer
+DO39886	Male	62	Thyroid Cancer
+DO39910	Female	49	Thyroid Cancer
+DO39956	Female	37	Thyroid Cancer
+DO40069	Female	32	Thyroid Cancer
+DO40147	Female	49	Thyroid Cancer
+DO40167	Female	49	Thyroid Cancer
+DO40193	Female	17	Thyroid Cancer
+DO40274	Male	70	Thyroid Cancer
+DO40405	Female	57	Thyroid Cancer
+DO40484	Female	85	Thyroid Cancer
+DO40496	Female	68	Thyroid Cancer
+DO40664	Female	45	Thyroid Cancer
+DO40735	Female	22	Thyroid Cancer
+DO40759	Female	45	Thyroid Cancer
+DO48065	Female	63	Thyroid Cancer
+DO48084	Male	33	Thyroid Cancer
+DO48103	Female	55	Thyroid Cancer
+DO48159	Female	45	Thyroid Cancer
+DO40867	Female	45	Uterine Endometrioid Carcinoma
+DO40930	Female	72	Uterine Endometrioid Carcinoma
+DO41056	Female	76	Uterine Endometrioid Carcinoma
+DO41229	Female	65	Uterine Endometrioid Carcinoma
+DO41446	Female	56	Uterine Endometrioid Carcinoma
+DO41716	Female	74	Uterine Endometrioid Carcinoma
+DO42209	Female	60	Uterine Endometrioid Carcinoma
+DO42240	Female	68	Uterine Endometrioid Carcinoma
+DO42256	Female	64	Uterine Endometrioid Carcinoma
+DO42304	Female	79	Uterine Endometrioid Carcinoma
+DO42400	Female	69	Uterine Endometrioid Carcinoma
+DO42424	Female	38	Uterine Endometrioid Carcinoma
+DO42432	Female	65	Uterine Endometrioid Carcinoma
+DO42464	Female	72	Uterine Endometrioid Carcinoma
+DO42536	Female	73	Uterine Endometrioid Carcinoma
+DO42544	Female	61	Uterine Endometrioid Carcinoma
+DO42937	Female	74	Uterine Endometrioid Carcinoma
+DO43210	Female	44	Uterine Endometrioid Carcinoma
+DO43314	Female	62	Uterine Endometrioid Carcinoma
+DO43378	Female	90	Uterine Endometrioid Carcinoma
+DO43506	Female	35	Uterine Endometrioid Carcinoma
+DO43514	Female	71	Uterine Endometrioid Carcinoma
+DO43610	Female	82	Uterine Endometrioid Carcinoma
+DO43739	Female	59	Uterine Endometrioid Carcinoma
+DO33552	Female	70	Intraductal papillary mucinous neoplasm
+DO34616	Female	68	Intraductal papillary mucinous neoplasm
+DO34809	Female	74	Intraductal papillary mucinous neoplasm
